@@ -1,0 +1,2527 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Detheme Visual Composer Add On\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2016-03-14 15:22+0700\n"
+"PO-Revision-Date: 2016-03-14 15:24+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme.com <support@detheme.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: js\n"
+"X-Poedit-SearchPathExcluded-1: lib/js\n"
+
+#: detheme_builder.php:72 detheme_builder.php:73 detheme_builder.php:79
+#: detheme_builder.php:80 detheme_builder.php:124
+msgid "DT Page Builder"
+msgstr ""
+
+#: detheme_builder.php:124
+#, php-format
+msgid "%s Settings"
+msgstr "Pengaturan %s"
+
+#: detheme_builder.php:130
+#, fuzzy
+msgid "Post types"
+msgstr "Lebih Lama"
+
+#: detheme_builder.php:140
+msgid "Save Changes"
+msgstr ""
+
+#: lib/class-editor.php:17
+msgid "deTheme Builder"
+msgstr ""
+
+#: lib/class-editor.php:55
+msgid "Search Icon"
+msgstr "Cari ikon"
+
+#: lib/class-editor.php:67 lib/class-editor.php:224 lib/class-elements.php:243
+#: lib/class-elements.php:261 lib/class-elements.php:301
+#: lib/class-elements.php:318
+msgid "Move this element"
+msgstr "Geser bagian ini"
+
+#: lib/class-editor.php:68
+msgid "Edit"
+msgstr "Sunting"
+
+#: lib/class-editor.php:69
+msgid "Close"
+msgstr "Tutup"
+
+#: lib/class-editor.php:70
+msgid "Save"
+msgstr "Simpan"
+
+#: lib/class-editor.php:71
+msgid "Cancel"
+msgstr "Batal"
+
+#: lib/class-editor.php:72
+msgid "Select Image"
+msgstr "Pilih Gambar"
+
+#: lib/class-editor.php:73
+msgid "Insert Image"
+msgstr "Masukkan Gambar"
+
+#: lib/class-editor.php:74
+msgid "Custom CSS"
+msgstr "CSS Tambahan"
+
+#: lib/class-editor.php:75
+msgid "Element Shortcode"
+msgstr "Shortcode Elemen"
+
+#: lib/class-editor.php:76
+msgid "Add Shortcode"
+msgstr "Tambah Shortcode"
+
+#: lib/class-editor.php:77
+msgid "Are you sure delete this element"
+msgstr "Kamu yakin akan menghapus bagian ini"
+
+#: lib/class-editor.php:78
+msgid "Are you sure delete this column"
+msgstr "Kamu yakin akan menghapus kolom ini"
+
+#: lib/class-editor.php:79
+msgid "This column can't delete"
+msgstr "Kolom ini tidak bisa dihapus"
+
+#: lib/class-editor.php:80
+msgid "4 4 4 Total=12"
+msgstr ""
+
+#: lib/class-editor.php:81
+msgid "Insert Video"
+msgstr "Masukkan Filem"
+
+#: lib/class-editor.php:82
+msgid "Select Video"
+msgstr "Pilih Filem"
+
+#: lib/class-editor.php:83 lib/class-elements.php:188
+msgid "Click to toggle row"
+msgstr "Klik untuk memutar balik baris"
+
+# #: element name
+#: lib/class-editor.php:84 lib/class-editor.php:100 lib/class-editor.php:118
+#: lib/class-elements.php:189 lib/class-elements.php:205
+#: lib/elements/dt_row.php:332 lib/elements/dt_row.php:488
+#: lib/elements/dt_row.php:586
+msgid "Row"
+msgstr "Baris"
+
+#: lib/class-editor.php:85
+msgid "Classic Editor"
+msgstr "Editor Lawas"
+
+#: lib/class-editor.php:103 lib/class-elements.php:193
+msgid "Move this row"
+msgstr "Geser baris ini"
+
+#: lib/class-editor.php:106 lib/class-elements.php:194
+msgid "Change column"
+msgstr "Rubah Kolom"
+
+#: lib/class-editor.php:114 lib/class-elements.php:201
+msgid "Custom"
+msgstr "Bebas"
+
+#: lib/class-editor.php:117 lib/class-editor.php:161 lib/class-editor.php:208
+#: lib/class-editor.php:248 lib/class-elements.php:204
+#: lib/class-elements.php:248 lib/class-elements.php:287
+#: lib/class-elements.php:323
+msgid "Show this shortcode"
+msgstr "Tampilkan shortcode bagian ini"
+
+#: lib/class-editor.php:118 lib/class-elements.php:205
+msgid "Edit this row"
+msgstr "Sunting baris ini"
+
+#: lib/class-editor.php:123 lib/class-elements.php:208
+msgid "Copy this row"
+msgstr "Salin baris ini"
+
+#: lib/class-editor.php:124 lib/class-elements.php:209
+msgid "Delete this row"
+msgstr "Hapus baris ini"
+
+#: lib/class-editor.php:125 lib/class-elements.php:210
+msgid "Move up this row"
+msgstr "Geser baris ini ketas"
+
+#: lib/class-editor.php:126 lib/class-elements.php:211
+msgid "Move down this row"
+msgstr "Geser baris ini kebawah"
+
+#: lib/class-editor.php:132 lib/class-elements.php:230
+#: lib/elements/dt_post.php:239 lib/elements/dt_row.php:684
+#: lib/elements/dt_row.php:757 lib/elements/dt_row.php:830
+msgid "Column"
+msgstr "Kolom"
+
+#: lib/class-editor.php:132 lib/class-elements.php:230
+msgid "Edit this column"
+msgstr "Sunting kolom ini"
+
+#: lib/class-editor.php:133 lib/class-elements.php:231
+msgid "Add shortcode to this column"
+msgstr "Masukkan shortcode di kolom ini"
+
+#: lib/class-editor.php:134 lib/class-elements.php:232
+msgid "Delete this column"
+msgstr "Hapus kolom ini"
+
+#: lib/class-editor.php:160 lib/class-editor.php:207 lib/class-editor.php:227
+#: lib/class-editor.php:247 lib/class-elements.php:247
+#: lib/class-elements.php:286 lib/class-elements.php:304
+#: lib/class-elements.php:322
+msgid "Edit this element"
+msgstr "Sunting elemen ini"
+
+#: lib/class-editor.php:162 lib/class-editor.php:209 lib/class-editor.php:228
+#: lib/class-editor.php:249 lib/class-elements.php:249
+#: lib/class-elements.php:288 lib/class-elements.php:305
+#: lib/class-elements.php:324
+msgid "Copy this element"
+msgstr "Salin elemen ini"
+
+#: lib/class-editor.php:163 lib/class-editor.php:210 lib/class-editor.php:229
+#: lib/class-editor.php:250 lib/class-elements.php:250
+#: lib/class-elements.php:289 lib/class-elements.php:306
+#: lib/class-elements.php:325
+msgid "Delete this element"
+msgstr "Hapus elemen ini"
+
+#: lib/class-editor.php:189 lib/class-editor.php:200
+#: lib/class-elements.php:272 lib/class-elements.php:280
+#, php-format
+msgid "Add %s"
+msgstr "Tambah %s"
+
+#: lib/class-editor.php:297
+#, fuzzy
+msgid "Add shortcode to this page"
+msgstr "Masukkan shortcode di kolom ini"
+
+#: lib/class-elements.php:19
+msgid "Shortcode tag required"
+msgstr ""
+
+#: lib/class-elements.php:80
+msgid "Element Title"
+msgstr "Judul Elemen"
+
+#: lib/class-elements.php:537 lib/elements/dt_carousel.php:234
+#: lib/elements/dt_map.php:139 lib/elements/dt_partner.php:225
+#: lib/elements/dt_pricetable.php:293 lib/elements/dt_responsive_tab.php:200
+#: lib/elements/dt_timeline.php:179 lib/elements/dt_vertical_tab.php:198
+msgid "Module Title"
+msgstr "Judul Module"
+
+#: lib/class-elements.php:759
+#, fuzzy
+msgid "All"
+msgstr "Semua"
+
+#: lib/class-elements.php:910 lib/class-elements.php:969
+msgid "Add New Icon"
+msgstr ""
+
+#: lib/class-elements.php:928 lib/class-elements.php:1011
+#, php-format
+msgid "No css font available, please check plugin folder <b>%s</b>"
+msgstr ""
+
+#: lib/class-elements.php:1042 lib/class-elements.php:1077
+msgid "Add Image"
+msgstr "Tambah Gambar"
+
+#: lib/class-elements.php:1115
+#, fuzzy
+msgid "Add Video"
+msgstr "Tambah Video"
+
+#: lib/class-elements.php:1116
+#, fuzzy
+msgid "Remove Video"
+msgstr "Hapus Video"
+
+#: lib/class-elements.php:1219 lib/elements/dt_portfolio.php:368
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: lib/class-elements.php:1253
+#, fuzzy
+msgid "Select Taxonomy"
+msgstr "Pilih Tampilan:"
+
+#: lib/elements/dt_button.php:70
+msgid "Button"
+msgstr "Tombol"
+
+#: lib/elements/dt_button.php:75 lib/elements/dt_carousel.php:240
+#: lib/elements/dt_circlebar_item.php:93 lib/elements/dt_countdown.php:174
+#: lib/elements/dt_custom_team.php:156 lib/elements/dt_heading.php:201
+#: lib/elements/dt_iconbox.php:207 lib/elements/dt_image.php:103
+#: lib/elements/dt_map.php:146 lib/elements/dt_optin_form.php:219
+#: lib/elements/dt_partner.php:232 lib/elements/dt_portfolio.php:231
+#: lib/elements/dt_post.php:151 lib/elements/dt_pricetable.php:300
+#: lib/elements/dt_progressbar_item.php:109
+#: lib/elements/dt_responsive_tab.php:207 lib/elements/dt_row.php:336
+#: lib/elements/dt_row.php:491 lib/elements/dt_row.php:589
+#: lib/elements/dt_row.php:687 lib/elements/dt_row.php:760
+#: lib/elements/dt_row.php:833 lib/elements/dt_separator.php:132
+#: lib/elements/dt_social_icon.php:98 lib/elements/dt_text.php:76
+#: lib/elements/dt_timeline.php:186 lib/elements/dt_twitter_slider.php:94
+#: lib/elements/dt_vertical_tab.php:205 lib/elements/wp_widgets.php:73
+#: lib/elements/wp_widgets.php:210 lib/elements/wp_widgets.php:366
+#: lib/elements/wp_widgets.php:517 lib/elements/wp_widgets.php:654
+#: lib/elements/wp_widgets.php:794 lib/elements/wp_widgets.php:953
+#: lib/elements/wp_widgets.php:1105 lib/elements/wp_widgets.php:1249
+#, fuzzy
+msgid "Extra css Class"
+msgstr "CSS Class tambahan"
+
+#: lib/elements/dt_button.php:81 lib/elements/dt_carousel.php:246
+#: lib/elements/dt_circlebar_item.php:99 lib/elements/dt_countdown.php:180
+#: lib/elements/dt_custom_team.php:162 lib/elements/dt_heading.php:207
+#: lib/elements/dt_iconbox.php:213 lib/elements/dt_image.php:109
+#: lib/elements/dt_map.php:152 lib/elements/dt_optin_form.php:225
+#: lib/elements/dt_partner.php:238 lib/elements/dt_portfolio.php:237
+#: lib/elements/dt_post.php:157 lib/elements/dt_pricetable.php:306
+#: lib/elements/dt_progressbar_item.php:115
+#: lib/elements/dt_responsive_tab.php:213 lib/elements/dt_row.php:342
+#: lib/elements/dt_row.php:497 lib/elements/dt_row.php:595
+#: lib/elements/dt_row.php:693 lib/elements/dt_row.php:766
+#: lib/elements/dt_row.php:839 lib/elements/dt_separator.php:138
+#: lib/elements/dt_social_icon.php:104 lib/elements/dt_text.php:82
+#: lib/elements/dt_timeline.php:192 lib/elements/dt_twitter_slider.php:100
+#: lib/elements/dt_vertical_tab.php:211 lib/elements/wp_widgets.php:79
+#: lib/elements/wp_widgets.php:216 lib/elements/wp_widgets.php:372
+#: lib/elements/wp_widgets.php:523 lib/elements/wp_widgets.php:660
+#: lib/elements/wp_widgets.php:800 lib/elements/wp_widgets.php:959
+#: lib/elements/wp_widgets.php:1111 lib/elements/wp_widgets.php:1255
+#, fuzzy
+msgid "Anchor ID"
+msgstr "Anchor ID"
+
+#: lib/elements/dt_button.php:84 lib/elements/dt_carousel.php:249
+#: lib/elements/dt_circlebar_item.php:102 lib/elements/dt_countdown.php:183
+#: lib/elements/dt_custom_team.php:165 lib/elements/dt_heading.php:210
+#: lib/elements/dt_iconbox.php:216 lib/elements/dt_image.php:112
+#: lib/elements/dt_map.php:155 lib/elements/dt_optin_form.php:228
+#: lib/elements/dt_partner.php:241 lib/elements/dt_portfolio.php:240
+#: lib/elements/dt_post.php:160 lib/elements/dt_pricetable.php:309
+#: lib/elements/dt_progressbar_item.php:118
+#: lib/elements/dt_responsive_tab.php:216 lib/elements/dt_row.php:345
+#: lib/elements/dt_row.php:500 lib/elements/dt_row.php:598
+#: lib/elements/dt_separator.php:141 lib/elements/dt_social_icon.php:107
+#: lib/elements/dt_text.php:85 lib/elements/dt_timeline.php:195
+#: lib/elements/dt_twitter_slider.php:103 lib/elements/dt_vertical_tab.php:214
+#: lib/elements/wp_widgets.php:82 lib/elements/wp_widgets.php:219
+#: lib/elements/wp_widgets.php:375 lib/elements/wp_widgets.php:526
+#: lib/elements/wp_widgets.php:663 lib/elements/wp_widgets.php:803
+#: lib/elements/wp_widgets.php:962 lib/elements/wp_widgets.php:1114
+#: lib/elements/wp_widgets.php:1258
+#, fuzzy
+msgid "Enter anchor ID without pound '#' sign"
+msgstr "Masukkan anchor ID tanpa tanda pagar \"#\""
+
+#: lib/elements/dt_button.php:87 lib/elements/dt_carousel.php:252
+#: lib/elements/dt_circlebar_item.php:105 lib/elements/dt_countdown.php:186
+#: lib/elements/dt_custom_team.php:168 lib/elements/dt_heading.php:256
+#: lib/elements/dt_iconbox.php:219 lib/elements/dt_image.php:115
+#: lib/elements/dt_map.php:158 lib/elements/dt_optin_form.php:231
+#: lib/elements/dt_partner.php:244 lib/elements/dt_portfolio.php:243
+#: lib/elements/dt_post.php:163 lib/elements/dt_pricetable.php:312
+#: lib/elements/dt_progressbar_item.php:121
+#: lib/elements/dt_responsive_tab.php:219 lib/elements/dt_row.php:354
+#: lib/elements/dt_row.php:509 lib/elements/dt_row.php:607
+#: lib/elements/dt_separator.php:159 lib/elements/dt_social_icon.php:110
+#: lib/elements/dt_text.php:88 lib/elements/dt_timeline.php:198
+#: lib/elements/dt_twitter_slider.php:106 lib/elements/dt_vertical_tab.php:217
+#: lib/elements/wp_widgets.php:85 lib/elements/wp_widgets.php:222
+#: lib/elements/wp_widgets.php:378 lib/elements/wp_widgets.php:529
+#: lib/elements/wp_widgets.php:666 lib/elements/wp_widgets.php:806
+#: lib/elements/wp_widgets.php:965 lib/elements/wp_widgets.php:1117
+#: lib/elements/wp_widgets.php:1261
+msgid "Margin Top"
+msgstr "Tepi Atas"
+
+#: lib/elements/dt_button.php:93 lib/elements/dt_carousel.php:258
+#: lib/elements/dt_circlebar_item.php:111 lib/elements/dt_countdown.php:192
+#: lib/elements/dt_custom_team.php:174 lib/elements/dt_heading.php:262
+#: lib/elements/dt_iconbox.php:225 lib/elements/dt_image.php:121
+#: lib/elements/dt_map.php:164 lib/elements/dt_optin_form.php:237
+#: lib/elements/dt_partner.php:250 lib/elements/dt_portfolio.php:249
+#: lib/elements/dt_post.php:169 lib/elements/dt_pricetable.php:318
+#: lib/elements/dt_progressbar_item.php:127
+#: lib/elements/dt_responsive_tab.php:225 lib/elements/dt_row.php:360
+#: lib/elements/dt_row.php:515 lib/elements/dt_row.php:613
+#: lib/elements/dt_separator.php:165 lib/elements/dt_social_icon.php:116
+#: lib/elements/dt_text.php:94 lib/elements/dt_timeline.php:204
+#: lib/elements/dt_twitter_slider.php:112 lib/elements/dt_vertical_tab.php:223
+#: lib/elements/wp_widgets.php:91 lib/elements/wp_widgets.php:228
+#: lib/elements/wp_widgets.php:384 lib/elements/wp_widgets.php:535
+#: lib/elements/wp_widgets.php:672 lib/elements/wp_widgets.php:812
+#: lib/elements/wp_widgets.php:971 lib/elements/wp_widgets.php:1123
+#: lib/elements/wp_widgets.php:1267
+msgid "Margin Bottom"
+msgstr "Tepi Bawah"
+
+#: lib/elements/dt_button.php:99 lib/elements/dt_carousel.php:264
+#: lib/elements/dt_circlebar_item.php:117 lib/elements/dt_countdown.php:198
+#: lib/elements/dt_custom_team.php:180 lib/elements/dt_heading.php:268
+#: lib/elements/dt_iconbox.php:231 lib/elements/dt_image.php:127
+#: lib/elements/dt_map.php:170 lib/elements/dt_optin_form.php:243
+#: lib/elements/dt_partner.php:256 lib/elements/dt_portfolio.php:255
+#: lib/elements/dt_post.php:175 lib/elements/dt_pricetable.php:324
+#: lib/elements/dt_progressbar_item.php:133
+#: lib/elements/dt_responsive_tab.php:231 lib/elements/dt_row.php:366
+#: lib/elements/dt_row.php:521 lib/elements/dt_row.php:619
+#: lib/elements/dt_separator.php:171 lib/elements/dt_social_icon.php:122
+#: lib/elements/dt_text.php:100 lib/elements/dt_timeline.php:210
+#: lib/elements/dt_twitter_slider.php:118 lib/elements/dt_vertical_tab.php:229
+#: lib/elements/wp_widgets.php:97 lib/elements/wp_widgets.php:234
+#: lib/elements/wp_widgets.php:390 lib/elements/wp_widgets.php:541
+#: lib/elements/wp_widgets.php:678 lib/elements/wp_widgets.php:818
+#: lib/elements/wp_widgets.php:977 lib/elements/wp_widgets.php:1129
+#: lib/elements/wp_widgets.php:1273
+msgid "Margin Left"
+msgstr "Tepi Kiri"
+
+#: lib/elements/dt_button.php:105 lib/elements/dt_carousel.php:270
+#: lib/elements/dt_circlebar_item.php:123 lib/elements/dt_countdown.php:204
+#: lib/elements/dt_custom_team.php:186 lib/elements/dt_heading.php:274
+#: lib/elements/dt_iconbox.php:237 lib/elements/dt_image.php:133
+#: lib/elements/dt_map.php:176 lib/elements/dt_optin_form.php:249
+#: lib/elements/dt_partner.php:262 lib/elements/dt_portfolio.php:261
+#: lib/elements/dt_post.php:181 lib/elements/dt_pricetable.php:330
+#: lib/elements/dt_progressbar_item.php:139
+#: lib/elements/dt_responsive_tab.php:237 lib/elements/dt_row.php:372
+#: lib/elements/dt_row.php:527 lib/elements/dt_row.php:625
+#: lib/elements/dt_separator.php:177 lib/elements/dt_social_icon.php:128
+#: lib/elements/dt_text.php:106 lib/elements/dt_timeline.php:216
+#: lib/elements/dt_twitter_slider.php:124 lib/elements/dt_vertical_tab.php:235
+#: lib/elements/wp_widgets.php:103 lib/elements/wp_widgets.php:240
+#: lib/elements/wp_widgets.php:396 lib/elements/wp_widgets.php:547
+#: lib/elements/wp_widgets.php:684 lib/elements/wp_widgets.php:824
+#: lib/elements/wp_widgets.php:983 lib/elements/wp_widgets.php:1135
+#: lib/elements/wp_widgets.php:1279
+msgid "Margin Right"
+msgstr "Tepi Kanan"
+
+#: lib/elements/dt_button.php:111 lib/elements/dt_optin_form.php:301
+msgid "Button Text"
+msgstr "Tek di Tombol"
+
+#: lib/elements/dt_button.php:117
+#, fuzzy
+msgid "Button URL"
+msgstr "Tautan Tombol"
+
+#: lib/elements/dt_button.php:122
+msgid "Button skin"
+msgstr "Corak Tombol"
+
+#: lib/elements/dt_button.php:125
+msgid "Dark (default)"
+msgstr "Gelap (default)"
+
+#: lib/elements/dt_button.php:125
+msgid "Light"
+msgstr "Terang"
+
+#: lib/elements/dt_button.php:129
+msgid "Button style"
+msgstr "Model Tombol"
+
+#: lib/elements/dt_button.php:132
+#, fuzzy
+msgid "Primary"
+msgstr "Primer"
+
+#: lib/elements/dt_button.php:133
+#, fuzzy
+msgid "Secondary"
+msgstr "Sekunder"
+
+#: lib/elements/dt_button.php:134
+msgid "Success"
+msgstr ""
+
+#: lib/elements/dt_button.php:135
+msgid "Info"
+msgstr ""
+
+#: lib/elements/dt_button.php:136
+#, fuzzy
+msgid "Warning"
+msgstr "Awas"
+
+#: lib/elements/dt_button.php:137
+msgid "Danger"
+msgstr ""
+
+#: lib/elements/dt_button.php:138
+#, fuzzy
+msgid "Ghost Button"
+msgstr "Model Tombol"
+
+#: lib/elements/dt_button.php:139 lib/elements/dt_iconbox.php:322
+msgid "Link"
+msgstr "Tautan"
+
+#: lib/elements/dt_button.php:145
+msgid "Button size"
+msgstr "Ukuran Tombol"
+
+#: lib/elements/dt_button.php:149 lib/elements/dt_heading.php:293
+#: lib/elements/dt_social_icon.php:179
+msgid "Large"
+msgstr "Besar"
+
+#: lib/elements/dt_button.php:150 lib/elements/dt_countdown.php:213
+#: lib/elements/dt_heading.php:294 lib/elements/dt_heading.php:315
+#: lib/elements/dt_heading.php:338 lib/elements/dt_image.php:168
+#: lib/elements/dt_map.php:271 lib/elements/dt_optin_form.php:18
+msgid "Default"
+msgstr "Bawaan"
+
+#: lib/elements/dt_button.php:151 lib/elements/dt_countdown.php:215
+#: lib/elements/dt_heading.php:295 lib/elements/dt_social_icon.php:177
+msgid "Small"
+msgstr "Kecil"
+
+#: lib/elements/dt_button.php:152 lib/elements/dt_heading.php:296
+msgid "Extra small"
+msgstr "Sangat Kecil"
+
+#: lib/elements/dt_button.php:157
+msgid "Button Target"
+msgstr "Target Tombol"
+
+#: lib/elements/dt_button.php:161 lib/elements/dt_iconbox.php:332
+#: lib/elements/dt_image.php:191
+msgid "Self"
+msgstr ""
+
+#: lib/elements/dt_button.php:162 lib/elements/dt_iconbox.php:332
+#: lib/elements/dt_image.php:192
+#, fuzzy
+msgid "Blank"
+msgstr "Template Kosongan Page Builder"
+
+#: lib/elements/dt_carousel.php:131
+msgid "Prev"
+msgstr "Sebelumnya"
+
+#: lib/elements/dt_carousel.php:131
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: lib/elements/dt_carousel.php:228
+msgid "Carousel"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:276 lib/elements/dt_portfolio.php:279
+msgid "Slide Speed"
+msgstr "Kecepatan Slide"
+
+#: lib/elements/dt_carousel.php:280 lib/elements/dt_portfolio.php:283
+#: lib/elements/dt_twitter_slider.php:176
+msgid "Slide speed (in millisecond). The lower value the faster slides"
+msgstr ""
+"Kecepatan slide ( dalam per seribu detik). Semakin kecil nilainya semakin "
+"cepat slide"
+
+#: lib/elements/dt_carousel.php:284 lib/elements/dt_portfolio.php:298
+msgid "Autoplay"
+msgstr "Mulai Otomatis"
+
+#: lib/elements/dt_carousel.php:286 lib/elements/dt_portfolio.php:300
+#: lib/elements/dt_twitter_slider.php:162
+msgid "Set Autoplay"
+msgstr "Jadikan Mulai Otomatis"
+
+#: lib/elements/dt_carousel.php:290 lib/elements/dt_heading.php:217
+#: lib/elements/dt_portfolio.php:292 lib/elements/dt_portfolio.php:304
+#: lib/elements/dt_pricetable.php:205 lib/elements/dt_twitter_slider.php:166
+msgid "Yes"
+msgstr "Ya"
+
+#: lib/elements/dt_carousel.php:291 lib/elements/dt_heading.php:218
+#: lib/elements/dt_portfolio.php:293 lib/elements/dt_portfolio.php:305
+#: lib/elements/dt_pricetable.php:205 lib/elements/dt_twitter_slider.php:167
+msgid "No"
+msgstr "Tidak"
+
+#: lib/elements/dt_carousel.php:296 lib/elements/dt_portfolio.php:310
+msgid "Slide Interval"
+msgstr "Jeda Slide"
+
+#: lib/elements/dt_carousel.php:300 lib/elements/dt_portfolio.php:314
+msgid "Slide Interval (in millisecond)"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:305
+#, fuzzy
+msgid "Pagination"
+msgstr "Jenis Paginasi"
+
+#: lib/elements/dt_carousel.php:307
+#, fuzzy
+msgid "Pagination Setting"
+msgstr "Pra-Tayang Formulir"
+
+#: lib/elements/dt_carousel.php:311 lib/elements/dt_custom_team.php:240
+#: lib/elements/dt_map.php:217 lib/elements/dt_map.php:227
+#: lib/elements/dt_map.php:237
+msgid "Show"
+msgstr "Tampilkan"
+
+#: lib/elements/dt_carousel.php:312 lib/elements/dt_custom_team.php:240
+#: lib/elements/dt_map.php:217 lib/elements/dt_map.php:227
+#: lib/elements/dt_map.php:237
+msgid "Hidden"
+msgstr "Sembunyikan"
+
+#: lib/elements/dt_carousel.php:317
+msgid "Pagination Type"
+msgstr "Jenis Paginasi"
+
+#: lib/elements/dt_carousel.php:322
+msgid "Standard"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:323 lib/elements/dt_map.php:272
+msgid "Custom Image"
+msgstr "Gambar Pilihan"
+
+#: lib/elements/dt_carousel.php:324
+msgid "Custom Icon"
+msgstr "Ikon Pilihan"
+
+#: lib/elements/dt_carousel.php:325
+msgid "Navigation Button"
+msgstr "Tombol Navigasi"
+
+#: lib/elements/dt_carousel.php:331 lib/elements/dt_social_icon.php:204
+msgid "Color"
+msgstr "Warna"
+
+#: lib/elements/dt_carousel.php:338
+#, fuzzy
+msgid "Pagination Preview"
+msgstr "Pra-Tayang Formulir"
+
+#: lib/elements/dt_carousel.php:345 lib/elements/dt_social_icon.php:174
+msgid "Size"
+msgstr "Ukuran"
+
+#: lib/elements/dt_carousel.php:352
+#, fuzzy
+msgid "Pagination Image"
+msgstr "Gambar"
+
+#: lib/elements/dt_carousel.php:360
+msgid "Pagination Icon"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:364
+msgid "The icon you want as pagination"
+msgstr "Pilih ikon untuk halaman"
+
+#: lib/elements/dt_carousel.php:369 lib/elements/dt_partner.php:268
+msgid "Number of Columns"
+msgstr "Jumlah Kolom"
+
+#: lib/elements/dt_carousel.php:371 lib/elements/dt_partner.php:270
+msgid "Number of columns on screen larger than 1200px screen resolution"
+msgstr "Jumlah kolom layar dengan resolusi lebih besar dari 1200px"
+
+#: lib/elements/dt_carousel.php:374 lib/elements/dt_carousel.php:387
+#: lib/elements/dt_carousel.php:400 lib/elements/dt_carousel.php:413
+#: lib/elements/dt_carousel.php:426 lib/elements/dt_partner.php:273
+msgid "One Column"
+msgstr "Satu Kolom"
+
+#: lib/elements/dt_carousel.php:375 lib/elements/dt_carousel.php:388
+#: lib/elements/dt_carousel.php:401 lib/elements/dt_carousel.php:414
+#: lib/elements/dt_carousel.php:427 lib/elements/dt_partner.php:274
+msgid "Two Columns"
+msgstr "Dua Kolom"
+
+#: lib/elements/dt_carousel.php:376 lib/elements/dt_carousel.php:389
+#: lib/elements/dt_carousel.php:402 lib/elements/dt_carousel.php:415
+#: lib/elements/dt_carousel.php:428 lib/elements/dt_partner.php:275
+msgid "Three Columns"
+msgstr "Tiga Kolom"
+
+#: lib/elements/dt_carousel.php:377 lib/elements/dt_carousel.php:390
+#: lib/elements/dt_carousel.php:403 lib/elements/dt_carousel.php:416
+#: lib/elements/dt_carousel.php:429 lib/elements/dt_partner.php:276
+msgid "Four Columns"
+msgstr "Empat Kolom"
+
+#: lib/elements/dt_carousel.php:382 lib/elements/dt_post.php:245
+#, fuzzy
+msgid "Desktop Column"
+msgstr "Kolom Desktop"
+
+#: lib/elements/dt_carousel.php:384
+#, fuzzy
+msgid "items between 1200px and 1023px"
+msgstr "item antara 1200px dan 1023px"
+
+#: lib/elements/dt_carousel.php:395 lib/elements/dt_post.php:254
+#, fuzzy
+msgid "Desktop Small Column"
+msgstr "Kolum Dekstop Kecil"
+
+#: lib/elements/dt_carousel.php:397
+#, fuzzy
+msgid "items between 1024px and 768px"
+msgstr "item antara 1024px dan 768px"
+
+#: lib/elements/dt_carousel.php:408 lib/elements/dt_post.php:263
+#, fuzzy
+msgid "Tablet Column"
+msgstr "Layar Tablet"
+
+#: lib/elements/dt_carousel.php:410
+#, fuzzy
+msgid "items between 768px and 600px"
+msgstr "item antara 768px dan 600px"
+
+#: lib/elements/dt_carousel.php:421 lib/elements/dt_post.php:272
+#, fuzzy
+msgid "Mobile Column"
+msgstr "Layar Handphone"
+
+#: lib/elements/dt_carousel.php:423
+#, fuzzy
+msgid "items below 600px"
+msgstr "item dibawah 600px"
+
+#: lib/elements/dt_carousel.php:434 lib/elements/dt_custom_team.php:300
+#: lib/elements/dt_heading.php:356 lib/elements/dt_iconbox.php:337
+#: lib/elements/dt_image.php:196 lib/elements/dt_partner.php:283
+#: lib/elements/dt_portfolio.php:319 lib/elements/dt_post.php:281
+#: lib/elements/dt_pricetable.php:254 lib/elements/dt_responsive_tab.php:287
+#: lib/elements/dt_row.php:454 lib/elements/dt_social_icon.php:218
+#: lib/elements/dt_text.php:118 lib/elements/dt_timeline.php:222
+#: lib/elements/dt_vertical_tab.php:252 lib/elements/wp_widgets.php:117
+#: lib/elements/wp_widgets.php:273 lib/elements/wp_widgets.php:424
+#: lib/elements/wp_widgets.php:561 lib/elements/wp_widgets.php:698
+#: lib/elements/wp_widgets.php:859 lib/elements/wp_widgets.php:1011
+#: lib/elements/wp_widgets.php:1156 lib/elements/wp_widgets.php:1300
+msgid "Animation Type"
+msgstr "Jenis Animasi"
+
+#: lib/elements/dt_carousel.php:439 lib/elements/dt_custom_team.php:305
+#: lib/elements/dt_heading.php:361 lib/elements/dt_iconbox.php:342
+#: lib/elements/dt_image.php:201 lib/elements/dt_partner.php:288
+#: lib/elements/dt_portfolio.php:324 lib/elements/dt_post.php:286
+#: lib/elements/dt_pricetable.php:259 lib/elements/dt_responsive_tab.php:292
+#: lib/elements/dt_row.php:459 lib/elements/dt_social_icon.php:223
+#: lib/elements/dt_text.php:123 lib/elements/dt_timeline.php:227
+#: lib/elements/dt_vertical_tab.php:257 lib/elements/wp_widgets.php:122
+#: lib/elements/wp_widgets.php:278 lib/elements/wp_widgets.php:429
+#: lib/elements/wp_widgets.php:566 lib/elements/wp_widgets.php:703
+#: lib/elements/wp_widgets.php:864 lib/elements/wp_widgets.php:1016
+#: lib/elements/wp_widgets.php:1161 lib/elements/wp_widgets.php:1305
+msgid "Scroll Spy not activated"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:440 lib/elements/dt_custom_team.php:306
+#: lib/elements/dt_heading.php:362 lib/elements/dt_iconbox.php:343
+#: lib/elements/dt_image.php:202 lib/elements/dt_partner.php:289
+#: lib/elements/dt_portfolio.php:325 lib/elements/dt_post.php:287
+#: lib/elements/dt_pricetable.php:260 lib/elements/dt_responsive_tab.php:293
+#: lib/elements/dt_row.php:460 lib/elements/dt_social_icon.php:224
+#: lib/elements/dt_text.php:124 lib/elements/dt_timeline.php:228
+#: lib/elements/dt_vertical_tab.php:258 lib/elements/wp_widgets.php:123
+#: lib/elements/wp_widgets.php:279 lib/elements/wp_widgets.php:430
+#: lib/elements/wp_widgets.php:567 lib/elements/wp_widgets.php:704
+#: lib/elements/wp_widgets.php:865 lib/elements/wp_widgets.php:1017
+#: lib/elements/wp_widgets.php:1162 lib/elements/wp_widgets.php:1306
+msgid "The element fades in"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:441 lib/elements/dt_custom_team.php:307
+#: lib/elements/dt_heading.php:363 lib/elements/dt_iconbox.php:344
+#: lib/elements/dt_image.php:203 lib/elements/dt_partner.php:290
+#: lib/elements/dt_portfolio.php:326 lib/elements/dt_post.php:288
+#: lib/elements/dt_pricetable.php:261 lib/elements/dt_responsive_tab.php:294
+#: lib/elements/dt_row.php:461 lib/elements/dt_social_icon.php:225
+#: lib/elements/dt_text.php:125 lib/elements/dt_timeline.php:229
+#: lib/elements/dt_vertical_tab.php:259 lib/elements/wp_widgets.php:124
+#: lib/elements/wp_widgets.php:280 lib/elements/wp_widgets.php:431
+#: lib/elements/wp_widgets.php:568 lib/elements/wp_widgets.php:705
+#: lib/elements/wp_widgets.php:866 lib/elements/wp_widgets.php:1018
+#: lib/elements/wp_widgets.php:1163 lib/elements/wp_widgets.php:1307
+msgid "The element scales up"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:442 lib/elements/dt_custom_team.php:308
+#: lib/elements/dt_heading.php:364 lib/elements/dt_iconbox.php:345
+#: lib/elements/dt_image.php:204 lib/elements/dt_partner.php:291
+#: lib/elements/dt_portfolio.php:327 lib/elements/dt_post.php:289
+#: lib/elements/dt_pricetable.php:262 lib/elements/dt_responsive_tab.php:295
+#: lib/elements/dt_row.php:462 lib/elements/dt_social_icon.php:226
+#: lib/elements/dt_text.php:126 lib/elements/dt_timeline.php:230
+#: lib/elements/dt_vertical_tab.php:260 lib/elements/wp_widgets.php:125
+#: lib/elements/wp_widgets.php:281 lib/elements/wp_widgets.php:432
+#: lib/elements/wp_widgets.php:569 lib/elements/wp_widgets.php:706
+#: lib/elements/wp_widgets.php:867 lib/elements/wp_widgets.php:1019
+#: lib/elements/wp_widgets.php:1164 lib/elements/wp_widgets.php:1308
+msgid "The element scales down"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:443 lib/elements/dt_custom_team.php:309
+#: lib/elements/dt_heading.php:365 lib/elements/dt_iconbox.php:346
+#: lib/elements/dt_image.php:205 lib/elements/dt_partner.php:292
+#: lib/elements/dt_portfolio.php:328 lib/elements/dt_post.php:290
+#: lib/elements/dt_pricetable.php:263 lib/elements/dt_responsive_tab.php:296
+#: lib/elements/dt_row.php:463 lib/elements/dt_social_icon.php:227
+#: lib/elements/dt_text.php:127 lib/elements/dt_timeline.php:231
+#: lib/elements/dt_vertical_tab.php:261 lib/elements/wp_widgets.php:126
+#: lib/elements/wp_widgets.php:282 lib/elements/wp_widgets.php:433
+#: lib/elements/wp_widgets.php:570 lib/elements/wp_widgets.php:707
+#: lib/elements/wp_widgets.php:868 lib/elements/wp_widgets.php:1020
+#: lib/elements/wp_widgets.php:1165 lib/elements/wp_widgets.php:1309
+msgid "The element slides in from the top"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:444 lib/elements/dt_custom_team.php:310
+#: lib/elements/dt_heading.php:366 lib/elements/dt_iconbox.php:347
+#: lib/elements/dt_image.php:206 lib/elements/dt_partner.php:293
+#: lib/elements/dt_portfolio.php:329 lib/elements/dt_post.php:291
+#: lib/elements/dt_pricetable.php:264 lib/elements/dt_responsive_tab.php:297
+#: lib/elements/dt_row.php:464 lib/elements/dt_social_icon.php:228
+#: lib/elements/dt_text.php:128 lib/elements/dt_timeline.php:232
+#: lib/elements/dt_vertical_tab.php:262 lib/elements/wp_widgets.php:127
+#: lib/elements/wp_widgets.php:283 lib/elements/wp_widgets.php:434
+#: lib/elements/wp_widgets.php:571 lib/elements/wp_widgets.php:708
+#: lib/elements/wp_widgets.php:869 lib/elements/wp_widgets.php:1021
+#: lib/elements/wp_widgets.php:1166 lib/elements/wp_widgets.php:1310
+msgid "The element slides in from the bottom"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:445 lib/elements/dt_custom_team.php:311
+#: lib/elements/dt_heading.php:367 lib/elements/dt_iconbox.php:348
+#: lib/elements/dt_image.php:207 lib/elements/dt_partner.php:294
+#: lib/elements/dt_portfolio.php:330 lib/elements/dt_post.php:292
+#: lib/elements/dt_pricetable.php:265 lib/elements/dt_responsive_tab.php:298
+#: lib/elements/dt_row.php:465 lib/elements/dt_social_icon.php:229
+#: lib/elements/dt_text.php:129 lib/elements/dt_timeline.php:233
+#: lib/elements/dt_vertical_tab.php:263 lib/elements/wp_widgets.php:128
+#: lib/elements/wp_widgets.php:284 lib/elements/wp_widgets.php:435
+#: lib/elements/wp_widgets.php:572 lib/elements/wp_widgets.php:709
+#: lib/elements/wp_widgets.php:870 lib/elements/wp_widgets.php:1022
+#: lib/elements/wp_widgets.php:1167 lib/elements/wp_widgets.php:1311
+msgid "The element slides in from the left"
+msgstr ""
+
+#: lib/elements/dt_carousel.php:446 lib/elements/dt_custom_team.php:312
+#: lib/elements/dt_heading.php:368 lib/elements/dt_iconbox.php:349
+#: lib/elements/dt_image.php:208 lib/elements/dt_partner.php:295
+#: lib/elements/dt_portfolio.php:331 lib/elements/dt_post.php:293
+#: lib/elements/dt_pricetable.php:266 lib/elements/dt_responsive_tab.php:299
+#: lib/elements/dt_row.php:466 lib/elements/dt_social_icon.php:230
+#: lib/elements/dt_text.php:130 lib/elements/dt_timeline.php:234
+#: lib/elements/dt_vertical_tab.php:264 lib/elements/wp_widgets.php:129
+#: lib/elements/wp_widgets.php:285 lib/elements/wp_widgets.php:436
+#: lib/elements/wp_widgets.php:573 lib/elements/wp_widgets.php:710
+#: lib/elements/wp_widgets.php:871 lib/elements/wp_widgets.php:1023
+#: lib/elements/wp_widgets.php:1168 lib/elements/wp_widgets.php:1312
+msgid "The element slides in from the right."
+msgstr ""
+
+#: lib/elements/dt_carousel.php:448 lib/elements/dt_custom_team.php:314
+#: lib/elements/dt_heading.php:370 lib/elements/dt_iconbox.php:351
+#: lib/elements/dt_image.php:210 lib/elements/dt_partner.php:297
+#: lib/elements/dt_portfolio.php:334 lib/elements/dt_post.php:295
+#: lib/elements/dt_pricetable.php:268 lib/elements/dt_responsive_tab.php:301
+#: lib/elements/dt_row.php:468 lib/elements/dt_social_icon.php:232
+#: lib/elements/dt_text.php:132 lib/elements/dt_timeline.php:236
+#: lib/elements/dt_vertical_tab.php:266 lib/elements/wp_widgets.php:131
+#: lib/elements/wp_widgets.php:287 lib/elements/wp_widgets.php:438
+#: lib/elements/wp_widgets.php:575 lib/elements/wp_widgets.php:712
+#: lib/elements/wp_widgets.php:873 lib/elements/wp_widgets.php:1025
+#: lib/elements/wp_widgets.php:1170 lib/elements/wp_widgets.php:1314
+msgid "Scroll spy effects"
+msgstr "Efek scroll spy"
+
+#: lib/elements/dt_carousel.php:452 lib/elements/dt_custom_team.php:318
+#: lib/elements/dt_heading.php:374 lib/elements/dt_iconbox.php:355
+#: lib/elements/dt_image.php:214 lib/elements/dt_partner.php:301
+#: lib/elements/dt_portfolio.php:338 lib/elements/dt_post.php:299
+#: lib/elements/dt_pricetable.php:272 lib/elements/dt_responsive_tab.php:305
+#: lib/elements/dt_row.php:472 lib/elements/dt_social_icon.php:236
+#: lib/elements/dt_text.php:136 lib/elements/dt_timeline.php:240
+#: lib/elements/dt_vertical_tab.php:270 lib/elements/wp_widgets.php:135
+#: lib/elements/wp_widgets.php:291 lib/elements/wp_widgets.php:442
+#: lib/elements/wp_widgets.php:579 lib/elements/wp_widgets.php:716
+#: lib/elements/wp_widgets.php:877 lib/elements/wp_widgets.php:1029
+#: lib/elements/wp_widgets.php:1174 lib/elements/wp_widgets.php:1318
+msgid "Animation Delay"
+msgstr "Jeda Animasi"
+
+#: lib/elements/dt_carousel.php:456 lib/elements/dt_custom_team.php:322
+#: lib/elements/dt_heading.php:378 lib/elements/dt_iconbox.php:359
+#: lib/elements/dt_image.php:218 lib/elements/dt_partner.php:305
+#: lib/elements/dt_portfolio.php:342 lib/elements/dt_post.php:303
+#: lib/elements/dt_pricetable.php:276 lib/elements/dt_responsive_tab.php:309
+#: lib/elements/dt_row.php:476 lib/elements/dt_social_icon.php:240
+#: lib/elements/dt_text.php:140 lib/elements/dt_timeline.php:244
+#: lib/elements/dt_vertical_tab.php:274 lib/elements/wp_widgets.php:139
+#: lib/elements/wp_widgets.php:295 lib/elements/wp_widgets.php:446
+#: lib/elements/wp_widgets.php:583 lib/elements/wp_widgets.php:720
+#: lib/elements/wp_widgets.php:881 lib/elements/wp_widgets.php:1033
+#: lib/elements/wp_widgets.php:1178 lib/elements/wp_widgets.php:1322
+msgid "The number of delay the animation effect of the icon. in milisecond"
+msgstr ""
+
+#: lib/elements/dt_circlebar_item.php:87
+msgid "Circle Bar"
+msgstr ""
+
+#: lib/elements/dt_circlebar_item.php:129 lib/elements/dt_partner.php:194
+#: lib/elements/dt_post.php:199 lib/elements/dt_progressbar_item.php:153
+#: lib/elements/dt_responsive_tab.php:323 lib/elements/dt_timeline.php:290
+#: lib/elements/wp_widgets.php:109 lib/elements/wp_widgets.php:246
+#: lib/elements/wp_widgets.php:402 lib/elements/wp_widgets.php:553
+#: lib/elements/wp_widgets.php:690 lib/elements/wp_widgets.php:830
+#: lib/elements/wp_widgets.php:989 lib/elements/wp_widgets.php:1141
+#: lib/elements/wp_widgets.php:1285
+msgid "Title"
+msgstr "Judul"
+
+#: lib/elements/dt_circlebar_item.php:136
+#: lib/elements/dt_progressbar_item.php:160
+msgid "Value"
+msgstr "Nilai"
+
+#: lib/elements/dt_circlebar_item.php:143
+#: lib/elements/dt_progressbar_item.php:167
+msgid "Units"
+msgstr "Satuan"
+
+#: lib/elements/dt_circlebar_item.php:149
+msgid "Bar Width"
+msgstr "Lebar Batang"
+
+#: lib/elements/dt_circlebar_item.php:155
+#: lib/elements/dt_progressbar_item.php:173
+msgid "Label Color"
+msgstr "Warna label"
+
+#: lib/elements/dt_circlebar_item.php:161
+msgid "Unit Color"
+msgstr "Warna Satuan"
+
+#: lib/elements/dt_circlebar_item.php:167
+#: lib/elements/dt_progressbar_item.php:191
+msgid "Bar Color"
+msgstr "Warna Batang"
+
+#: lib/elements/dt_circlebar_item.php:173 lib/elements/dt_row.php:449
+#: lib/elements/dt_row.php:576 lib/elements/dt_row.php:674
+#: lib/elements/dt_row.php:747 lib/elements/dt_row.php:820
+#: lib/elements/dt_row.php:894 lib/elements/dt_separator.php:189
+#: lib/elements/dt_social_icon.php:211
+msgid "Background Color"
+msgstr "Warna Latar"
+
+#: lib/elements/dt_countdown.php:163
+msgid "Countdown Timer"
+msgstr "Pewaktu Hitung Mundur"
+
+#: lib/elements/dt_countdown.php:168 lib/elements/dt_optin_form.php:213
+#: lib/elements/dt_portfolio.php:225 lib/elements/dt_post.php:145
+#: lib/elements/dt_social_icon.php:92 lib/elements/dt_twitter_slider.php:88
+#, fuzzy
+msgid "Label"
+msgstr "Posisi Label Periode"
+
+#: lib/elements/dt_countdown.php:210
+msgid "Box Size"
+msgstr "Ukuran Kotak"
+
+#: lib/elements/dt_countdown.php:214 lib/elements/dt_social_icon.php:178
+msgid "Medium"
+msgstr "Sedang"
+
+#: lib/elements/dt_countdown.php:221
+msgid "Countdown Box Color"
+msgstr "Warna Wadah"
+
+#: lib/elements/dt_countdown.php:229
+msgid "Countdown Text Color"
+msgstr "Warna tek"
+
+#: lib/elements/dt_countdown.php:237
+msgid "Countdown Label Color"
+msgstr "Warna label"
+
+#: lib/elements/dt_countdown.php:245
+#, fuzzy
+msgid "Countdown Type"
+msgstr "Tipe Pewaktu Hitung Mundur"
+
+#: lib/elements/dt_countdown.php:248
+#, fuzzy
+msgid "Fixed Date"
+msgstr "Tanggal Tetap"
+
+#: lib/elements/dt_countdown.php:248
+#, fuzzy
+msgid "Evergreen"
+msgstr "Tanggal Mengambang"
+
+#: lib/elements/dt_countdown.php:253
+#, fuzzy
+msgid "Relative Time (minutes)"
+msgstr "Waktu Relatif ( menit )"
+
+#: lib/elements/dt_countdown.php:255
+#, fuzzy
+msgid "Relative time from 1st page visit in minutes"
+msgstr "Waktu relatif dari kunjungan prertama halaman dalam satuan menit"
+
+#: lib/elements/dt_countdown.php:262
+#, fuzzy
+msgid "Cookie Lifetime (Hours)"
+msgstr "Masa Hidup Cookie"
+
+#: lib/elements/dt_countdown.php:264
+#, fuzzy
+msgid "How long cookie store 1st page visit"
+msgstr "Berapa lama cookie disimpan sejak kunjungan pertama halaman"
+
+#: lib/elements/dt_countdown.php:271
+msgid "Time"
+msgstr "Jam"
+
+#: lib/elements/dt_countdown.php:273
+#, php-format
+msgid "Time format hour:minute. example: %s"
+msgstr "Format jam:menit. contoh: %s"
+
+#: lib/elements/dt_countdown.php:280
+msgid "Day"
+msgstr "Tanggal"
+
+#: lib/elements/dt_countdown.php:282
+#, php-format
+msgid "Fill with the day of the event. example: %s"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:289
+msgid "Month"
+msgstr "Bulan"
+
+#: lib/elements/dt_countdown.php:291
+msgid "Choose the month of the event"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:295
+msgid "January"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:296
+msgid "February"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:297
+#, fuzzy
+msgid "March"
+msgstr "Maret"
+
+#: lib/elements/dt_countdown.php:298
+msgid "April"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:299
+msgid "May"
+msgstr "Mei"
+
+#: lib/elements/dt_countdown.php:300
+msgid "June"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:301
+msgid "July"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:302
+msgid "August"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:303
+msgid "September"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:304
+msgid "October"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:305
+msgid "November"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:306
+msgid "December"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:312
+msgid "Year"
+msgstr "Tahun"
+
+#: lib/elements/dt_countdown.php:314
+#, php-format
+msgid "Fill with the year of the event. example: %d"
+msgstr ""
+
+#: lib/elements/dt_countdown.php:321
+msgid "On Complete Countdown Message"
+msgstr "Pesan jika pewaktu mundur selesai"
+
+#: lib/elements/dt_countdown.php:324
+msgid "The content will show after countdown expired. Simple html allowed"
+msgstr ""
+"Konten yang akan ditampilkan setelah hitung mundur berakhir. html sederhana "
+"diperbolehkan"
+
+#: lib/elements/dt_countdown.php:328
+msgid "Redirect Url after countdown is completed"
+msgstr "Arahan Tautan setelah pewaktu mundur selesai"
+
+#: lib/elements/dt_countdown.php:330
+msgid "If countdown expired, the page will be redirected to this url"
+msgstr "Jika pewaktu mundur selesai, halaman akan diteruskan ke tautan ini"
+
+#: lib/elements/dt_custom_team.php:150
+msgid "Custom Team Item"
+msgstr ""
+
+#: lib/elements/dt_custom_team.php:192 lib/elements/dt_vertical_tab.php:296
+msgid "Main Title"
+msgstr "Judul Utama"
+
+#: lib/elements/dt_custom_team.php:199 lib/elements/dt_vertical_tab.php:303
+msgid "Sub Title"
+msgstr "Sub Judul"
+
+#: lib/elements/dt_custom_team.php:206
+msgid "Description"
+msgstr "Keterangan"
+
+#: lib/elements/dt_custom_team.php:212 lib/elements/dt_image.php:98
+#: lib/elements/dt_image.php:140 lib/elements/dt_row.php:404
+msgid "Image"
+msgstr "Gambar"
+
+#: lib/elements/dt_custom_team.php:219
+msgid "Title Color"
+msgstr "Warna Judul"
+
+#: lib/elements/dt_custom_team.php:225
+msgid "Sub Title Color"
+msgstr "Warna Sub Judul"
+
+#: lib/elements/dt_custom_team.php:231 lib/elements/dt_heading.php:349
+#: lib/elements/dt_separator.php:183
+msgid "Separator Color"
+msgstr "Warna Pembatas"
+
+#: lib/elements/dt_custom_team.php:238
+msgid "Social Link"
+msgstr "Tautan Sosial"
+
+#: lib/elements/dt_custom_team.php:284 lib/elements/dt_partner.php:208
+msgid "Website"
+msgstr "Laman Web"
+
+#: lib/elements/dt_custom_team.php:292
+msgid "Email"
+msgstr "Surel"
+
+#: lib/elements/dt_heading.php:187
+msgid "Section Heading"
+msgstr "Judul Seksi"
+
+#: lib/elements/dt_heading.php:194
+msgid "Text Heading"
+msgstr "Teks Judul"
+
+#: lib/elements/dt_heading.php:213
+msgid "Separator"
+msgstr "Pembatas"
+
+#: lib/elements/dt_heading.php:223 lib/elements/dt_iconbox.php:260
+#: lib/elements/dt_timeline.php:259
+msgid "Layout type"
+msgstr "Tipe Tampilan"
+
+#: lib/elements/dt_heading.php:229
+#, fuzzy
+msgid "Type 1: Borderer"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/elements/dt_heading.php:230
+msgid "Type 2: Border Top-Bottom"
+msgstr ""
+
+#: lib/elements/dt_heading.php:231
+msgid "Type 3: Two Bottom Polkadot"
+msgstr ""
+
+#: lib/elements/dt_heading.php:232
+#, fuzzy
+msgid "Type 4: Color Background"
+msgstr "Warna Latar"
+
+#: lib/elements/dt_heading.php:233
+#, fuzzy
+msgid "Type 5: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_heading.php:234
+#, fuzzy
+msgid "Type 6: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_heading.php:235
+#, fuzzy
+msgid "Type 7: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_heading.php:236
+#, fuzzy
+msgid "Type 8: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_heading.php:237
+#, fuzzy
+msgid "Type 9: "
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_heading.php:238
+#, fuzzy
+msgid "Type 10: "
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_heading.php:239
+#, fuzzy
+msgid "Type 11: "
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_heading.php:240
+#, fuzzy
+msgid "Type 12: "
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_heading.php:241
+#, fuzzy
+msgid "Type 13: "
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_heading.php:242
+#, fuzzy
+msgid "Type 14: "
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_heading.php:247
+msgid "Separator Position"
+msgstr "Posisi Pembatas"
+
+#: lib/elements/dt_heading.php:250 lib/elements/dt_heading.php:283
+#: lib/elements/dt_optin_form.php:400 lib/elements/dt_optin_form.php:409
+#: lib/elements/dt_social_icon.php:199
+msgid "Center"
+msgstr "Tengah"
+
+#: lib/elements/dt_heading.php:250 lib/elements/dt_heading.php:283
+#: lib/elements/dt_optin_form.php:400 lib/elements/dt_optin_form.php:409
+#: lib/elements/dt_social_icon.php:199 lib/elements/dt_timeline.php:264
+#: lib/elements/dt_vertical_tab.php:245
+msgid "Left"
+msgstr "Kiri"
+
+#: lib/elements/dt_heading.php:250 lib/elements/dt_heading.php:283
+#: lib/elements/dt_optin_form.php:400 lib/elements/dt_optin_form.php:409
+#: lib/elements/dt_social_icon.php:199 lib/elements/dt_timeline.php:265
+#: lib/elements/dt_vertical_tab.php:246
+msgid "Right"
+msgstr "Kanan"
+
+#: lib/elements/dt_heading.php:280
+msgid "Text Alignment"
+msgstr "Perataan Teks"
+
+#: lib/elements/dt_heading.php:288
+msgid "Font Size"
+msgstr "Ukuran Huruf"
+
+#: lib/elements/dt_heading.php:292
+msgid "Extra Large"
+msgstr "Sangat Besar"
+
+#: lib/elements/dt_heading.php:297
+msgid "Custom Size"
+msgstr "Ukuran Sendiri"
+
+#: lib/elements/dt_heading.php:302
+msgid "Custom Font Size"
+msgstr "Ukuran Huruf Tersendiri"
+
+#: lib/elements/dt_heading.php:309
+msgid "Font Style"
+msgstr "Model Huruf"
+
+#: lib/elements/dt_heading.php:313
+msgid "Italic"
+msgstr ""
+
+#: lib/elements/dt_heading.php:314
+msgid "Oblique"
+msgstr "Italic"
+
+#: lib/elements/dt_heading.php:316 lib/elements/dt_heading.php:327
+msgid "Normal"
+msgstr ""
+
+#: lib/elements/dt_heading.php:321
+msgid "Font Weight"
+msgstr "Tebal Huruf"
+
+#: lib/elements/dt_heading.php:325
+msgid "Bold"
+msgstr "Tebal"
+
+#: lib/elements/dt_heading.php:326
+msgid "Bolder"
+msgstr "Lebih Tebal"
+
+#: lib/elements/dt_heading.php:328
+msgid "lighter"
+msgstr "lebih terang"
+
+#: lib/elements/dt_heading.php:343
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#: lib/elements/dt_iconbox.php:201
+msgid "Icon Box"
+msgstr "Kotak Ikon"
+
+#: lib/elements/dt_iconbox.php:202
+msgid "Icon box description here"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:243 lib/elements/dt_iconbox.php:388
+#: lib/elements/dt_progressbar_item.php:145 lib/elements/dt_timeline.php:282
+#: lib/elements/dt_vertical_tab.php:288
+msgid "Icon"
+msgstr "Ikon"
+
+#: lib/elements/dt_iconbox.php:247 lib/elements/dt_progressbar_item.php:149
+#: lib/elements/dt_timeline.php:286 lib/elements/dt_vertical_tab.php:292
+msgid "Select the icon to be displayed by clicking the icon."
+msgstr "Pilih ikon yang akan ditampilkan"
+
+#: lib/elements/dt_iconbox.php:252
+#, fuzzy
+msgid "Icon Size"
+msgstr "Ukuran Ikon"
+
+#: lib/elements/dt_iconbox.php:266 lib/elements/dt_iconbox.php:377
+msgid "Type 1: Squared Border Icon"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/elements/dt_iconbox.php:267 lib/elements/dt_iconbox.php:378
+#, fuzzy
+msgid "Type 2: Circled Border Icon"
+msgstr "Tipe 1: Icon dengan bingkai kotak"
+
+#: lib/elements/dt_iconbox.php:268 lib/elements/dt_iconbox.php:379
+msgid "Type 3: Squared Border Icon with Counter"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:269 lib/elements/dt_iconbox.php:380
+msgid "Type 4: Squared Border Box"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:270 lib/elements/dt_iconbox.php:381
+msgid "Type 5: Circled Border and Transparent Icon"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:271 lib/elements/dt_iconbox.php:382
+msgid "Type 6: Squared Box With Hover Color"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:272 lib/elements/dt_iconbox.php:383
+msgid "Type 7: Circled boxes Icon On Left"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:273 lib/elements/dt_iconbox.php:384
+msgid "Type 8: Circled boxes Icon On Right"
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:276 lib/elements/dt_optin_form.php:274
+#, fuzzy
+msgid "Choose the icon layout you want to use."
+msgstr "Pilih model tampilan ikon yang akan digunakan"
+
+#: lib/elements/dt_iconbox.php:279
+msgid "Iconbox heading"
+msgstr "Judul Kotak Ikon"
+
+#: lib/elements/dt_iconbox.php:286
+msgid "Iconbox Heading Color"
+msgstr "Warna Judul"
+
+#: lib/elements/dt_iconbox.php:293 lib/elements/dt_progressbar_item.php:179
+#, fuzzy
+msgid "Icon Color"
+msgstr "Warna Ikon"
+
+#: lib/elements/dt_iconbox.php:299
+#, fuzzy
+msgid "Iconbox Color"
+msgstr "Warna Kotak Ikon"
+
+#: lib/elements/dt_iconbox.php:306
+#, fuzzy
+msgid "Iconbox Counter Number"
+msgstr "Nilai"
+
+#: lib/elements/dt_iconbox.php:310
+msgid "A value will count-up."
+msgstr ""
+
+#: lib/elements/dt_iconbox.php:315
+msgid "Iconbox text"
+msgstr "Kotak ikon dengan Teks"
+
+#: lib/elements/dt_iconbox.php:329
+#, fuzzy
+msgid "Target"
+msgstr "Pilih halaman target link"
+
+#: lib/elements/dt_iconbox.php:333 lib/elements/dt_image.php:187
+msgid "Link Target"
+msgstr "Target Tautan"
+
+#: lib/elements/dt_image.php:145
+msgid "Image Align"
+msgstr "Perataan Gambar"
+
+#: lib/elements/dt_image.php:149
+msgid "Align Left"
+msgstr "Rata Kiri"
+
+#: lib/elements/dt_image.php:150
+msgid "Align Right"
+msgstr "Rata kanan"
+
+#: lib/elements/dt_image.php:151
+msgid "Align Center"
+msgstr "Rata tengah"
+
+#: lib/elements/dt_image.php:156
+msgid "Image Size"
+msgstr "Ukuran Gambar"
+
+#: lib/elements/dt_image.php:160
+msgid ""
+"Enter image size. Example: thumbnail, small, medium, large, full or other "
+"sizes defined by current theme. Alternatively enter image size in pixels: "
+"200x200 (Width x Height)."
+msgstr ""
+"Cantumkan ukuran gambar. Misalkan: thumnail, small, medium, large, full atau "
+"ukuran lain yang didifinisikan oleh template yang sekarang. Atau juga bisa "
+"dengan ukuran tertentu dalam satuan pixel: 200x200 (Lebar x Tinggi )."
+
+#: lib/elements/dt_image.php:164
+msgid "Image Style"
+msgstr "Model Gambar"
+
+#: lib/elements/dt_image.php:169 lib/elements/dt_social_icon.php:191
+#, fuzzy
+msgid "Rounded"
+msgstr "Bulat"
+
+#: lib/elements/dt_image.php:170 lib/elements/dt_social_icon.php:190
+#: lib/elements/dt_timeline.php:276
+msgid "Circle"
+msgstr "Lingkaran"
+
+#: lib/elements/dt_image.php:171
+#, fuzzy
+msgid "Diamond"
+msgstr "Belah ketupat"
+
+#: lib/elements/dt_image.php:175
+msgid "Border Color"
+msgstr "Warna Bingkai"
+
+#: lib/elements/dt_image.php:182
+msgid "Image Link"
+msgstr "Tautan Gambar"
+
+#: lib/elements/dt_map.php:134 lib/elements/dt_map.php:142
+msgid "Google Map"
+msgstr "Peta Google"
+
+#: lib/elements/dt_map.php:182
+msgid "Latitude"
+msgstr "Lintang"
+
+#: lib/elements/dt_map.php:185
+msgid "put your latitude coordinate your location, ex: -7.2852292"
+msgstr "menempatkan koordinat lintang lokasi Anda, misal: -7.2852292"
+
+#: lib/elements/dt_map.php:192
+msgid "Longitude"
+msgstr "Bujur"
+
+#: lib/elements/dt_map.php:195
+msgid "put your longitude coordinate your location, ex: 112.6809869"
+msgstr "menempatkan koordinat bujur lokasi Anda, misal: 112.6809869"
+
+#: lib/elements/dt_map.php:202
+msgid "Zoom Level"
+msgstr "Tingkat Perbesaran"
+
+#: lib/elements/dt_map.php:205
+msgid "zoom level your map, higher value present more detail."
+msgstr "tingkat zoom peta Anda, nilai yang lebih tinggi hadir lebih rinci."
+
+#: lib/elements/dt_map.php:212
+msgid "Zoom Control"
+msgstr "Kontrol Perbesaran"
+
+#: lib/elements/dt_map.php:215
+msgid "Show/hide zoom control"
+msgstr "Tampilan/sembunyikan kontrol perbesaran"
+
+#: lib/elements/dt_map.php:222
+msgid "Pan Control"
+msgstr ""
+
+#: lib/elements/dt_map.php:225
+msgid "Show/hide pan control"
+msgstr ""
+
+#: lib/elements/dt_map.php:232
+#, fuzzy
+msgid "Street View Control"
+msgstr "Kontrol Perbesaran"
+
+#: lib/elements/dt_map.php:235
+msgid "Show/hide street view control"
+msgstr ""
+
+#: lib/elements/dt_map.php:242
+#, fuzzy
+msgid "Mouse Scroll Wheel"
+msgstr "Efek scroll spy"
+
+#: lib/elements/dt_map.php:245
+msgid "Disable/enable mouse scroll to control zoom"
+msgstr "Menonaktifkan / mengaktifkan scroll mouse untuk mengontrol zoom"
+
+#: lib/elements/dt_map.php:247
+msgid "Enable"
+msgstr "Aktifkan"
+
+#: lib/elements/dt_map.php:247
+msgid "Disable"
+msgstr "Matikan"
+
+#: lib/elements/dt_map.php:252
+msgid "Map Height"
+msgstr "Tinggi Peta"
+
+#: lib/elements/dt_map.php:259
+msgid "Map Width"
+msgstr "Lebar Peta"
+
+#: lib/elements/dt_map.php:266
+msgid "Map Marker"
+msgstr "Penanda Peta"
+
+#: lib/elements/dt_map.php:277
+msgid "Image Marker"
+msgstr "Gambar Penanda"
+
+#: lib/elements/dt_map.php:282
+msgid "Select image as marker your location on the map"
+msgstr "Pilihlah gambar yang digunakan penanda dalam peta"
+
+#: lib/elements/dt_map.php:286
+msgid "Map Style"
+msgstr "Model Peta"
+
+#: lib/elements/dt_map.php:291 lib/elements/dt_map.php:314
+msgid "Shades of Grey"
+msgstr ""
+
+#: lib/elements/dt_map.php:292 lib/elements/dt_map.php:315
+msgid "Midnight Commander"
+msgstr ""
+
+#: lib/elements/dt_map.php:293 lib/elements/dt_map.php:316
+msgid "Blue water"
+msgstr ""
+
+#: lib/elements/dt_map.php:294 lib/elements/dt_map.php:317
+msgid "Light Monochrome"
+msgstr ""
+
+#: lib/elements/dt_map.php:295 lib/elements/dt_map.php:318
+msgid "Neutral Blue"
+msgstr ""
+
+#: lib/elements/dt_map.php:296 lib/elements/dt_map.php:319
+msgid "Avocado World"
+msgstr ""
+
+#: lib/elements/dt_map.php:297 lib/elements/dt_map.php:320
+msgid "Nature"
+msgstr ""
+
+#: lib/elements/dt_map.php:298 lib/elements/dt_map.php:321
+msgid "Pastel Tones"
+msgstr ""
+
+#: lib/elements/dt_optin_form.php:33
+msgid "Submit"
+msgstr "Kirim"
+
+#: lib/elements/dt_optin_form.php:40 lib/elements/dt_optin_form.php:293
+msgid "Email Label"
+msgstr "Judul Email"
+
+#: lib/elements/dt_optin_form.php:41 lib/elements/dt_optin_form.php:287
+#: lib/elements/dt_optin_form.php:448
+msgid "Your name"
+msgstr "Nama Kamu"
+
+#: lib/elements/dt_optin_form.php:208
+msgid "Optin Form"
+msgstr "Formulir Optin"
+
+#: lib/elements/dt_optin_form.php:255
+msgid "Optin Code"
+msgstr "Kode Optin"
+
+#: lib/elements/dt_optin_form.php:257
+msgid "put your optin form code here"
+msgstr "menempatkan kode formulir optin Anda di sini"
+
+#: lib/elements/dt_optin_form.php:263
+msgid "Choose Layout"
+msgstr "Pilih Tampilan"
+
+#: lib/elements/dt_optin_form.php:277 lib/elements/dt_optin_form.php:282
+#: lib/elements/dt_optin_form.php:290 lib/elements/dt_optin_form.php:298
+#: lib/elements/dt_optin_form.php:306 lib/elements/dt_optin_form.php:314
+#: lib/elements/dt_optin_form.php:323 lib/elements/dt_optin_form.php:332
+#: lib/elements/dt_optin_form.php:341 lib/elements/dt_optin_form.php:350
+#: lib/elements/dt_optin_form.php:359 lib/elements/dt_optin_form.php:368
+#: lib/elements/dt_optin_form.php:377 lib/elements/dt_optin_form.php:386
+#: lib/elements/dt_optin_form.php:394 lib/elements/dt_optin_form.php:403
+#: lib/elements/dt_optin_form.php:412 lib/elements/dt_optin_form.php:421
+#: lib/elements/dt_optin_form.php:429 lib/elements/dt_optin_form.php:438
+msgid "Form Preview"
+msgstr "Pra-Tayang Formulir"
+
+#: lib/elements/dt_optin_form.php:285
+msgid "Name Label"
+msgstr "Judul Nama"
+
+#: lib/elements/dt_optin_form.php:296 lib/elements/dt_optin_form.php:449
+msgid "Your email"
+msgstr "Email Kamu"
+
+#: lib/elements/dt_optin_form.php:304
+msgid "Submit Button"
+msgstr "Tombol Kirim"
+
+#: lib/elements/dt_optin_form.php:309
+msgid "Button Font Type"
+msgstr "Tipe Huruf Tombol"
+
+#: lib/elements/dt_optin_form.php:317 lib/elements/dt_optin_form.php:450
+msgid "Button Text Color"
+msgstr "Warna tek tombol"
+
+#: lib/elements/dt_optin_form.php:326
+msgid "Button Font Size"
+msgstr "Ukuran Huruf Tombol"
+
+#: lib/elements/dt_optin_form.php:335
+msgid "Element Height"
+msgstr "Tinggi Elemen"
+
+#: lib/elements/dt_optin_form.php:344
+msgid "Button Width"
+msgstr "Lebar Tombol"
+
+#: lib/elements/dt_optin_form.php:353
+msgid "Button Border Radius"
+msgstr "Kelengkungan Tombol"
+
+#: lib/elements/dt_optin_form.php:362
+msgid "Inputbox Radius"
+msgstr "Kelengkungan Bok Inputan"
+
+#: lib/elements/dt_optin_form.php:371
+msgid "Inputbox Padding Horizontal"
+msgstr "Jarak Menyamping Inputan"
+
+#: lib/elements/dt_optin_form.php:380
+msgid "Element Margin"
+msgstr "Jarak Elemen"
+
+#: lib/elements/dt_optin_form.php:389
+msgid "Full Width Button"
+msgstr "Tombol melebar"
+
+#: lib/elements/dt_optin_form.php:397
+msgid "Button Align"
+msgstr "Posisi Tombol"
+
+#: lib/elements/dt_optin_form.php:406
+msgid "Label Align"
+msgstr "Kerataan Label"
+
+#: lib/elements/dt_optin_form.php:415
+msgid "Button Color"
+msgstr "Warna Tombol"
+
+#: lib/elements/dt_optin_form.php:424
+msgid "Button Gradient Color"
+msgstr "Warna tombol gradasi"
+
+#: lib/elements/dt_partner.php:190
+#, fuzzy
+msgid "Partner Item"
+msgstr "Item Harga"
+
+#: lib/elements/dt_partner.php:201
+msgid "Image/Logo"
+msgstr "Gambar/Logo"
+
+#: lib/elements/dt_partner.php:219 lib/elements/dt_partner.php:228
+msgid "Partner"
+msgstr ""
+
+#: lib/elements/dt_partner.php:277
+#, fuzzy
+msgid "Six Columns"
+msgstr "6 kolom"
+
+#: lib/elements/dt_portfolio.php:87
+msgid "<i class=\"icon-left-open-big\"></i>"
+msgstr ""
+
+#: lib/elements/dt_portfolio.php:155
+#, fuzzy, php-format
+msgid "Detail to %s"
+msgstr "Detil ke %s"
+
+#: lib/elements/dt_portfolio.php:155
+#, fuzzy
+msgid "Read more"
+msgstr "Baca Selengkapnya"
+
+#: lib/elements/dt_portfolio.php:173
+msgid "<i class=\"icon-right-open-big\"></i>"
+msgstr ""
+
+#: lib/elements/dt_portfolio.php:219
+msgid "Portfolio Image"
+msgstr ""
+
+#: lib/elements/dt_portfolio.php:267 lib/elements/dt_post.php:187
+msgid "Category"
+msgstr "Kategori"
+
+#: lib/elements/dt_portfolio.php:273
+msgid "Number of Posts to be displayed"
+msgstr "Jumlah posting yang ditampilkan"
+
+#: lib/elements/dt_portfolio.php:287
+#, fuzzy
+msgid "Scroll Per Page"
+msgstr "Atribut Halaman"
+
+#: lib/elements/dt_post.php:138
+msgid "Posts Grid"
+msgstr ""
+
+#: lib/elements/dt_post.php:139
+msgid "Show posts in grid view"
+msgstr ""
+
+#: lib/elements/dt_post.php:192
+#, fuzzy
+msgid "Order By"
+msgstr "Urut dengan"
+
+#: lib/elements/dt_post.php:196
+msgid "ID"
+msgstr ""
+
+#: lib/elements/dt_post.php:197
+#, fuzzy
+msgid "Date"
+msgstr "Tanggal"
+
+#: lib/elements/dt_post.php:198
+msgid "Modified Date"
+msgstr ""
+
+#: lib/elements/dt_post.php:200
+#, fuzzy
+msgid "Author"
+msgstr "Meta Penulis"
+
+#: lib/elements/dt_post.php:201
+msgid "Comment Count"
+msgstr ""
+
+#: lib/elements/dt_post.php:202
+msgid "Random"
+msgstr ""
+
+#: lib/elements/dt_post.php:207
+#, fuzzy
+msgid "Order"
+msgstr "Urut ke"
+
+#: lib/elements/dt_post.php:211
+msgid "Ascending"
+msgstr "Menaik"
+
+#: lib/elements/dt_post.php:212
+msgid "Descending"
+msgstr "Menurun"
+
+#: lib/elements/dt_post.php:217
+msgid "Total items"
+msgstr "Jumlah item"
+
+#: lib/elements/dt_post.php:220
+msgid "Set max limit for items in grid or enter -1 to display all."
+msgstr "Tulis maksimal item dalam grid atau tulis -1 untuk menampilkan semua."
+
+#: lib/elements/dt_post.php:224
+msgid "Layout mode"
+msgstr "Tipe Tampilan"
+
+#: lib/elements/dt_post.php:227
+msgid "Fit rows"
+msgstr ""
+
+#: lib/elements/dt_post.php:228
+msgid "Masonry"
+msgstr ""
+
+#: lib/elements/dt_post.php:232
+msgid "Gutter"
+msgstr ""
+
+#: lib/elements/dt_post.php:235
+#, fuzzy
+msgid "Set column space"
+msgstr "Jadikan Mulai Otomatis"
+
+#: lib/elements/dt_post.php:247
+#, fuzzy
+msgid "items between 992px and 1200px"
+msgstr "item antara 1200px dan 1023px"
+
+#: lib/elements/dt_post.php:256
+#, fuzzy
+msgid "items between 992px and 768px"
+msgstr "Layar dengan lebar antara 768 dan 992px"
+
+#: lib/elements/dt_post.php:265
+#, fuzzy
+msgid "items between 768px and 480px"
+msgstr "item antara 1024px dan 768px"
+
+#: lib/elements/dt_post.php:274
+#, fuzzy
+msgid "items below 480px"
+msgstr "Layar dengan lebar 480px kebawah"
+
+#: lib/elements/dt_pricetable.php:199
+msgid "Price Item"
+msgstr "Item Harga"
+
+#: lib/elements/dt_pricetable.php:203
+msgid "Most popular"
+msgstr "Terpopuler"
+
+#: lib/elements/dt_pricetable.php:210
+msgid "Package Name"
+msgstr "Nama Paket"
+
+#: lib/elements/dt_pricetable.php:217
+msgid "Price Unit"
+msgstr "Item Harga"
+
+#: lib/elements/dt_pricetable.php:223
+msgid "Currency Symbol"
+msgstr "Simbol Mata Uang"
+
+#: lib/elements/dt_pricetable.php:229
+msgid "Price"
+msgstr "Harga"
+
+#: lib/elements/dt_pricetable.php:235
+msgid "Package Detail"
+msgstr "Detil Paket"
+
+#: lib/elements/dt_pricetable.php:238
+msgid ""
+"Type package detail in single line (without breakline/enter). Each breakline "
+"is automatically detected as new detail item"
+msgstr ""
+
+#: lib/elements/dt_pricetable.php:242
+msgid "\"Button\" Link"
+msgstr "Tautan \"Tombol\""
+
+#: lib/elements/dt_pricetable.php:248
+msgid "\"Button\" Text"
+msgstr "Teks \"Tombol\""
+
+#: lib/elements/dt_pricetable.php:287 lib/elements/dt_pricetable.php:296
+msgid "Pricing Table"
+msgstr "Tabel Harga"
+
+#: lib/elements/dt_pricetable.php:336
+msgid "Number of Price Column"
+msgstr "Jumlah Kolom Harga"
+
+#: lib/elements/dt_pricetable.php:339
+msgid "Three"
+msgstr "Tiga"
+
+#: lib/elements/dt_pricetable.php:340
+msgid "Four"
+msgstr "Empat"
+
+#: lib/elements/dt_pricetable.php:346
+msgid "Header Background Color"
+msgstr "Gambar Latar Kepala Harga"
+
+#: lib/elements/dt_pricetable.php:352 lib/elements/dt_pricetable.php:361
+#: lib/elements/dt_pricetable.php:370 lib/elements/dt_pricetable.php:379
+msgid "Advanced"
+msgstr ""
+
+#: lib/elements/dt_pricetable.php:355
+msgid "Body Background Color"
+msgstr "Warna Latar Belakang Bodi"
+
+#: lib/elements/dt_pricetable.php:364
+msgid "Odd Rows Background Color"
+msgstr "Warna Latar Belakang Baris Ganjil"
+
+#: lib/elements/dt_pricetable.php:373
+msgid "Even Rows Background Color"
+msgstr "Warna Latar Belakang Baris Genap"
+
+#: lib/elements/dt_progressbar_item.php:104
+msgid "Progress Bar Item"
+msgstr ""
+
+#: lib/elements/dt_progressbar_item.php:185
+msgid "Icon Background Color"
+msgstr "Warna Latar Belakang Ikon"
+
+#: lib/elements/dt_progressbar_item.php:197
+#, fuzzy
+msgid "Bar Background Color"
+msgstr "Gambar Latar"
+
+#: lib/elements/dt_responsive_tab.php:194
+#: lib/elements/dt_responsive_tab.php:203
+msgid "Responsive Tab"
+msgstr ""
+
+#: lib/elements/dt_responsive_tab.php:243
+msgid "Large Screen"
+msgstr "Layar Besar"
+
+#: lib/elements/dt_responsive_tab.php:245
+msgid "screen width more than 992px"
+msgstr "Layar dengan lebar lebih 992px"
+
+#: lib/elements/dt_responsive_tab.php:248
+#: lib/elements/dt_responsive_tab.php:259
+#: lib/elements/dt_responsive_tab.php:270
+#: lib/elements/dt_responsive_tab.php:281
+msgid "Tab"
+msgstr ""
+
+#: lib/elements/dt_responsive_tab.php:249
+#: lib/elements/dt_responsive_tab.php:260
+#: lib/elements/dt_responsive_tab.php:271
+#: lib/elements/dt_responsive_tab.php:282
+msgid "Accordion"
+msgstr "Lipat vertikal"
+
+#: lib/elements/dt_responsive_tab.php:254
+msgid "Medium Screen"
+msgstr "Layar Sedang"
+
+#: lib/elements/dt_responsive_tab.php:256
+msgid "screen width between 992px and 768px"
+msgstr "Layar dengan lebar antara 768 dan 992px"
+
+#: lib/elements/dt_responsive_tab.php:265
+msgid "Tablet Screen"
+msgstr "Layar Tablet"
+
+#: lib/elements/dt_responsive_tab.php:267
+msgid "screen width between 768px and 480px"
+msgstr "Layar dengan lebar antara 480 dan 768px"
+
+#: lib/elements/dt_responsive_tab.php:276
+msgid "Mobile Screen"
+msgstr "Layar Handphone"
+
+#: lib/elements/dt_responsive_tab.php:278
+msgid "screen width below 480px"
+msgstr "Layar dengan lebar 480px kebawah"
+
+#: lib/elements/dt_responsive_tab.php:319 lib/elements/dt_vertical_tab.php:284
+msgid "Tab Item"
+msgstr ""
+
+#: lib/elements/dt_responsive_tab.php:330 lib/elements/dt_timeline.php:313
+#: lib/elements/dt_vertical_tab.php:310
+msgid "Content"
+msgstr "Isi"
+
+#: lib/elements/dt_revslider.php:31
+msgid "No sliders found"
+msgstr ""
+
+#: lib/elements/dt_revslider.php:36 lib/elements/dt_revslider.php:48
+#: lib/elements/dt_revslider.php:88
+#, fuzzy
+msgid "Revolution Slider"
+msgstr "Lewati slide revolution slider"
+
+#: lib/elements/dt_revslider.php:37
+msgid "Place Revolution slider"
+msgstr ""
+
+#: lib/elements/dt_revslider.php:41
+msgid "Widget title"
+msgstr ""
+
+#: lib/elements/dt_revslider.php:44
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: lib/elements/dt_revslider.php:51
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: lib/elements/dt_revslider.php:55
+msgid "Extra class name"
+msgstr ""
+
+#: lib/elements/dt_revslider.php:57
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: lib/elements/dt_revslider.php:89
+#, fuzzy
+msgid "Slide"
+msgstr "Lewati slide"
+
+#: lib/elements/dt_row.php:349 lib/elements/dt_row.php:504
+#: lib/elements/dt_row.php:602 lib/elements/dt_row.php:700
+#: lib/elements/dt_row.php:773 lib/elements/dt_row.php:870
+msgid "Font Color"
+msgstr "Warna Huruf"
+
+#: lib/elements/dt_row.php:351 lib/elements/dt_row.php:506
+#: lib/elements/dt_row.php:604 lib/elements/dt_row.php:702
+#: lib/elements/dt_row.php:775 lib/elements/dt_row.php:872
+msgid "Select font color"
+msgstr "Pilih warna huruf"
+
+#: lib/elements/dt_row.php:378 lib/elements/dt_row.php:533
+#: lib/elements/dt_row.php:631 lib/elements/dt_row.php:710
+#: lib/elements/dt_row.php:783 lib/elements/dt_row.php:845
+msgid "Padding Top"
+msgstr "Padding Atas"
+
+#: lib/elements/dt_row.php:384 lib/elements/dt_row.php:539
+#: lib/elements/dt_row.php:637 lib/elements/dt_row.php:716
+#: lib/elements/dt_row.php:789 lib/elements/dt_row.php:851
+msgid "Padding Bottom"
+msgstr "Padding Bawah"
+
+#: lib/elements/dt_row.php:390 lib/elements/dt_row.php:545
+#: lib/elements/dt_row.php:643 lib/elements/dt_row.php:722
+#: lib/elements/dt_row.php:795 lib/elements/dt_row.php:857
+msgid "Padding Left"
+msgstr "Padding Kiri"
+
+#: lib/elements/dt_row.php:396 lib/elements/dt_row.php:551
+#: lib/elements/dt_row.php:649 lib/elements/dt_row.php:728
+#: lib/elements/dt_row.php:801 lib/elements/dt_row.php:863
+msgid "Padding Right"
+msgstr "Padding Kanan"
+
+#: lib/elements/dt_row.php:402
+msgid "Background Type"
+msgstr "Model Latar"
+
+#: lib/elements/dt_row.php:404
+#, fuzzy
+msgid "Video"
+msgstr "buat video dengan pewaktu hitung mundur baru"
+
+#: lib/elements/dt_row.php:409 lib/elements/dt_row.php:557
+#: lib/elements/dt_row.php:655 lib/elements/dt_row.php:705
+#: lib/elements/dt_row.php:778 lib/elements/dt_row.php:875
+msgid "Background Image"
+msgstr "Gambar Latar"
+
+#: lib/elements/dt_row.php:415
+msgid "Background Video (mp4)"
+msgstr "Video Latar (mp4)"
+
+#: lib/elements/dt_row.php:422
+msgid "Background Video (webm)"
+msgstr "Video Latar (webm)"
+
+#: lib/elements/dt_row.php:429
+#, fuzzy
+msgid "Image Thumb/Poster"
+msgstr "Posisi Gambar"
+
+#: lib/elements/dt_row.php:435 lib/elements/dt_row.php:562
+#: lib/elements/dt_row.php:660 lib/elements/dt_row.php:733
+#: lib/elements/dt_row.php:806 lib/elements/dt_row.php:880
+msgid "Background Image Style"
+msgstr "Model Gambar Latar"
+
+#: lib/elements/dt_row.php:439 lib/elements/dt_row.php:566
+#: lib/elements/dt_row.php:664 lib/elements/dt_row.php:737
+#: lib/elements/dt_row.php:810 lib/elements/dt_row.php:884
+msgid "Cover"
+msgstr ""
+
+#: lib/elements/dt_row.php:440 lib/elements/dt_row.php:567
+#: lib/elements/dt_row.php:665 lib/elements/dt_row.php:738
+#: lib/elements/dt_row.php:811 lib/elements/dt_row.php:885
+#, fuzzy
+msgid "Contain"
+msgstr "Isi"
+
+#: lib/elements/dt_row.php:441 lib/elements/dt_row.php:568
+#: lib/elements/dt_row.php:666 lib/elements/dt_row.php:739
+#: lib/elements/dt_row.php:812 lib/elements/dt_row.php:886
+msgid "No Repeat"
+msgstr ""
+
+#: lib/elements/dt_row.php:442 lib/elements/dt_row.php:569
+#: lib/elements/dt_row.php:667 lib/elements/dt_row.php:740
+#: lib/elements/dt_row.php:813 lib/elements/dt_row.php:887
+msgid "Repeat"
+msgstr ""
+
+#: lib/elements/dt_row.php:443 lib/elements/dt_row.php:570
+#: lib/elements/dt_row.php:668 lib/elements/dt_row.php:741
+#: lib/elements/dt_row.php:814 lib/elements/dt_row.php:888
+#, fuzzy
+msgid "Fixed"
+msgstr "Tetap"
+
+#: lib/elements/dt_row.php:445 lib/elements/dt_row.php:572
+#: lib/elements/dt_row.php:670 lib/elements/dt_row.php:743
+#: lib/elements/dt_row.php:816 lib/elements/dt_row.php:890
+#, fuzzy
+msgid "Extended options"
+msgstr "Pilihan Tambahan"
+
+#: lib/elements/dt_row.php:696 lib/elements/dt_row.php:769
+#: lib/elements/dt_row.php:842
+#, fuzzy
+msgid ""
+"If you wish to add anchor id to this column. Anchor id may used as link like "
+"href=\"#yourid\""
+msgstr ""
+"Jika kamu menginginkan ID di baris ini. ID jangkar bisa digunakan sebagai "
+"referensi link seperti href=\"#id\""
+
+#: lib/elements/dt_separator.php:125
+#, fuzzy
+msgid "Section Separator"
+msgstr "Pembatas"
+
+#: lib/elements/dt_separator.php:144
+#, fuzzy
+msgid "Separator Type"
+msgstr "Tipe Pembatas"
+
+#: lib/elements/dt_separator.php:150
+#, fuzzy
+msgid "Type 1"
+msgstr "Tipe 1"
+
+#: lib/elements/dt_separator.php:151
+#, fuzzy
+msgid "Type 2"
+msgstr "Tipe 2"
+
+#: lib/elements/dt_separator.php:152
+#, fuzzy
+msgid "Type 3"
+msgstr "Tipe Garis"
+
+#: lib/elements/dt_separator.php:153
+#, fuzzy
+msgid "Type 4"
+msgstr "4 Kolom"
+
+#: lib/elements/dt_separator.php:154
+#, fuzzy
+msgid "Type 5"
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_separator.php:155
+#, fuzzy
+msgid "Type 6"
+msgstr "Tipe 2:tanpa ikon"
+
+#: lib/elements/dt_social_icon.php:87
+#, fuzzy
+msgid "Social Box"
+msgstr "Tautan Sosial"
+
+#: lib/elements/dt_social_icon.php:186
+msgid "Shape"
+msgstr "Bentuk"
+
+#: lib/elements/dt_social_icon.php:189 lib/elements/dt_timeline.php:275
+msgid "Square"
+msgstr "Kotak"
+
+#: lib/elements/dt_social_icon.php:197
+#, fuzzy
+msgid "Align"
+msgstr "kerataan"
+
+#: lib/elements/dt_text.php:71
+msgid "Text Editor"
+msgstr "Penyunting Teks"
+
+#: lib/elements/dt_text.php:112 lib/elements/dt_timeline.php:297
+msgid "Text"
+msgstr "Teks"
+
+#: lib/elements/dt_text.php:115
+msgid ""
+"I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.\n"
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: lib/elements/dt_timeline.php:173 lib/elements/dt_timeline.php:182
+msgid "Timeline"
+msgstr ""
+
+#: lib/elements/dt_timeline.php:255
+msgid "Timeline Item"
+msgstr ""
+
+#: lib/elements/dt_timeline.php:271
+msgid "Icon Box Style"
+msgstr "Model Kotak Ikon"
+
+#: lib/elements/dt_timeline.php:309
+msgid "Timeline Separator"
+msgstr "Pembatas Timeline"
+
+#: lib/elements/dt_twitter_slider.php:83
+msgid "DT Twitter Slider"
+msgstr ""
+
+#: lib/elements/dt_twitter_slider.php:130
+msgid "Twitter Account"
+msgstr "Akun Twitter"
+
+#: lib/elements/dt_twitter_slider.php:137
+msgid "Number of tweets to show"
+msgstr "Jumlah kicauan yang ditampilkan"
+
+#: lib/elements/dt_twitter_slider.php:144
+msgid "Date Format"
+msgstr "Format Tanggal"
+
+#: lib/elements/dt_twitter_slider.php:146
+msgid ""
+"%d : day, %m: month in number, %b: textual month abbreviation, %B: textual "
+"month, %y: 2 digit year, %Y: 4 digit year"
+msgstr ""
+"%d : hari, %m: bulan dalam angka, %b: bulan dalam bentuk teks singkatan, %B: "
+"bulan dalam bentuk teks, %y: 2 angka tahun, %Y: 4 angka tahun"
+
+#: lib/elements/dt_twitter_slider.php:152
+#, fuzzy
+msgid "Template"
+msgstr "Template"
+
+#: lib/elements/dt_twitter_slider.php:157
+msgid "{{date}}: Post Date, {{tweet}}: tweet text"
+msgstr "{{date}}: Tanggal posting, {{tweet}}: teks kicauan"
+
+#: lib/elements/dt_twitter_slider.php:160
+msgid "Auto Play"
+msgstr "Mulai Otomatis"
+
+#: lib/elements/dt_twitter_slider.php:172
+msgid "Transition Threshold (msec)"
+msgstr "Lama Pergantian (msec)"
+
+#: lib/elements/dt_vertical_tab.php:192 lib/elements/dt_vertical_tab.php:201
+msgid "Vertical Tab"
+msgstr ""
+
+#: lib/elements/dt_vertical_tab.php:241
+msgid "Navigation Position"
+msgstr "Posisi Navigasi"
+
+#: lib/elements/dt_vertical_tab.php:248
+#, fuzzy
+msgid "Navigation position"
+msgstr "Posisi Navigasi"
+
+#: lib/elements/wp_widgets.php:69
+#, fuzzy
+msgctxt "Search widget"
+msgid "Search"
+msgstr "Pencarian"
+
+#: lib/elements/wp_widgets.php:205
+#, fuzzy
+msgid "Pages"
+msgstr ""
+"Gunakan link berikut ini untuk mengirim pengunjung ke halaman dengan "
+"menggunakan %s"
+
+#: lib/elements/wp_widgets.php:206
+msgid "A list of your site&#8217;s Pages."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:254
+msgid "Sort by"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:258
+#, fuzzy
+msgid "Page title"
+msgstr "judul halaman"
+
+#: lib/elements/wp_widgets.php:259
+#, fuzzy
+msgid "Page order"
+msgstr "Gambar Penanda"
+
+#: lib/elements/wp_widgets.php:260
+msgid "Page ID"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:265
+msgid "Exclude"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:269
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:361
+msgid "Archives"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:362
+msgid "A monthly archive of your site&#8217;s Posts."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:410 lib/elements/wp_widgets.php:838
+msgid "Display as dropdown"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:417 lib/elements/wp_widgets.php:845
+msgid "Show post counts"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:512
+msgid "Meta"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:513
+msgid "Login, RSS, &amp; WordPress.org links."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:649
+msgid "Calendar"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:650
+msgid "A calendar of your site&#8217;s Posts."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:789
+msgid "Categories"
+msgstr "Kategori"
+
+#: lib/elements/wp_widgets.php:790
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:852
+msgid "Show hierarchy"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:948
+msgid "Recent Posts"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:949
+msgid "Your site&#8217;s most recent Posts."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:997
+#, fuzzy
+msgid "Number of posts to show:"
+msgstr "Jumlah kicauan yang ditampilkan"
+
+#: lib/elements/wp_widgets.php:1004
+msgid "Display post date?"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:1100
+msgid "Recent Comments"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:1101
+msgid "Your site&#8217;s most recent comments."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:1149
+#, fuzzy
+msgid "Number of comments to show:"
+msgstr "Jumlah kicauan yang ditampilkan"
+
+#: lib/elements/wp_widgets.php:1244
+msgid "Tag Cloud"
+msgstr ""
+
+#: lib/elements/wp_widgets.php:1245
+msgid "A cloud of your most used tags."
+msgstr ""
+
+#: lib/elements/wp_widgets.php:1293
+#, fuzzy
+msgid "Taxonomy:"
+msgstr "Pilih warna"
+
+#~ msgid "Front Editor"
+#~ msgstr "Penyunting Depan"
+
+#~ msgid "Pre Heading"
+#~ msgstr "Sebelum Judul"
+
+#~ msgid "Main Heading"
+#~ msgstr "Judul Utama"
+
+#~ msgid "Sub Heading"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Line type"
+#~ msgstr "Tipe Garis"
+
+#~ msgid "One"
+#~ msgstr "Satu"
+
+#~ msgid "Two"
+#~ msgstr "Dua"
+
+#~ msgid "Package Heading"
+#~ msgstr "Judul Paket"
+
+#~ msgid "Position"
+#~ msgstr "Posisi"
+
+#~ msgid "Headline"
+#~ msgstr "Judul"
+
+#~ msgid "Sub-Headline"
+#~ msgstr "Sub Judul"
+
+#~ msgid "Button Gradient Color To"
+#~ msgstr "Warna tombol gradasi ke"
+
+#~ msgid "Button Height"
+#~ msgstr "Tinggi Tombol"
+
+#~ msgid "Button Preview"
+#~ msgstr "Pra-Tayang"
+
+#~ msgid "Line Height"
+#~ msgstr "Tinggi Baris"
+
+#~ msgid "Popup Height"
+#~ msgstr "Tinggi Sembulan"
+
+#~ msgid "Popup Width"
+#~ msgstr "Lebar Sembulan"
+
+#~ msgid "Inputbox Padding Vertical"
+#~ msgstr "Jarak Atas/Bawah Inputan"
+
+#, fuzzy
+#~ msgid "Main Heading Font Size"
+#~ msgstr "Judul Utama"

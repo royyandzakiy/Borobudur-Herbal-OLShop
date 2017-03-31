@@ -1,0 +1,15 @@
+milestone 1: products on
+- add semua product herbal
+- buat short description yang lebih menarik
+
+milestone 2: effective functionality
+- remove unused pages
+- remove unused sidebars
+
+milestone 3: awesome design
+- create new logo
+- web color scheme sesuaikan/cari yg pas
+- product images | create new
+
+milestone 4: ???
+- find more awesome themes

@@ -1,0 +1,660 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Krypton 1.0\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-07-31 16:06+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: detheme <support@detheme.com>\n"
+"Language: id_ID\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _e();__()\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+
+#: index.php:106
+msgid "Older Post"
+msgstr "Lebih Lama"
+
+#: index.php:112
+msgid "Newer Post"
+msgstr "Lebih Baru"
+
+#: 404.php:15
+msgid "Oops!"
+msgstr "Ups!"
+
+#: 404.php:16
+msgid "Error 404"
+msgstr "Galat 404"
+
+#: 404.php:19
+msgid "Back to Homepage"
+msgstr "Kembali ke beranda"
+
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr "Arsip Kategori: %s"
+
+#: comments.php:15
+msgid "Previous Comments"
+msgstr "Komentar Sebelumnya"
+
+#: comments.php:20
+msgid "Next Comments"
+msgstr "Komentar Sesudahnya"
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Komentar Ditutup"
+
+#: functions.php:100
+msgid "Top Navigation"
+msgstr "Navigasi Atas"
+
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr "Area Widget Samping"
+
+#: functions.php:119
+msgid "Bottom Widget Area. Recomended 3 widgets"
+msgstr "Area Widget Dasar Halaman. Disarankan 3 widget"
+
+#: functions.php:132
+msgid "Widget area for contact page"
+msgstr "Area Widget untuk halaman kontak"
+
+#: navigation.php:37
+msgid "Toggle navigation"
+msgstr "Alih Navigasi"
+
+#: navigation.php:37
+msgid "Search"
+msgstr "Cari"
+
+#: page.php:68
+msgid "Share"
+msgstr "Bagikan"
+
+#: search.php:66
+msgid "Search Results for: %s"
+msgstr "Hasil pencarian untuk : %s"
+
+#: search.php:97
+msgid "Previous"
+msgstr "Sebelumnya"
+
+#: search.php:102
+msgid "Next"
+msgstr "Selanjutnya"
+
+#: taxonomy-portcat.php:75
+msgid "Load More"
+msgstr "Yang Lain"
+
+#: portfolio-3column.php:66
+msgid "All Project"
+msgstr "Semua"
+
+#: custom_function.php:26
+msgid "Hide Comment"
+msgstr "Sembunyikan Komentar"
+
+#: custom_function.php:29
+msgid "Hide Social Share"
+msgstr "Sembunyikan Berbagi Sosial"
+
+#: custom_function.php:68
+msgid "Image Orientation"
+msgstr "Model Gambar"
+
+#: custom_function.php:73
+msgid "Square"
+msgstr "Persegi"
+
+#: custom_function.php:73
+msgid "Big Square"
+msgstr "Persegi Besar"
+
+#: custom_function.php:73
+msgid "Portrait"
+msgstr "Meninggi"
+
+#: custom_function.php:73
+msgid "Landscape"
+msgstr "Memanjang"
+
+#: custom_function.php:78
+msgid "Media Gallery"
+msgstr "Album Foto"
+
+#: custom_function.php:79
+msgid "Select Layout :"
+msgstr "Pilih Tampilan:"
+
+#: custom_function.php:81
+msgid "Default"
+msgstr "Standard"
+
+#: custom_function.php:82
+msgid "Carousel"
+msgstr ""
+
+#: custom_function.php:156
+msgid "Page Attributes"
+msgstr "Atribut Halaman"
+
+#: custom_function.php:175
+msgid "(no parent)"
+msgstr "(tanpa indux)"
+
+#: custom_function.php:183
+msgid "Left"
+msgstr "Kiri"
+
+#: custom_function.php:183
+msgid "Right"
+msgstr "Kanan"
+
+#: custom_function.php:183
+msgid "No Sidebar"
+msgstr "Tanpa Sidebar"
+
+#: custom_function.php:230
+msgid "Page Subtitle"
+msgstr "Sub Judul"
+
+#: custom_function.php:232
+msgid "Parent"
+msgstr "Induk"
+
+#: custom_function.php:241
+#, fuzzy
+msgid "Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:242
+msgid "Page Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:243
+msgid "Default Template"
+msgstr "Template Halaman"
+
+#: custom_function.php:248
+msgid "Select Layout Type"
+msgstr "Pilih Tipe Tampilan"
+
+#: custom_function.php:250
+msgid "Type 1"
+msgstr "Tipe 1"
+
+#: custom_function.php:251
+msgid "Type 2"
+msgstr "Tipe 2"
+
+#: custom_function.php:256
+msgid "Select Column"
+msgstr "Pilih Kolom"
+
+#: custom_function.php:260
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] "%d Kolom"
+msgstr[1] "%d Kolom"
+
+#: custom_function.php:278
+msgid "Sidebar Position"
+msgstr "Posisi Sidebar"
+
+#: custom_function.php:292
+msgid "Order"
+msgstr "Urut ke"
+
+#: custom_function.php:294
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr ""
+
+#: custom_function.php:621
+msgid "Submit"
+msgstr "Kirim"
+
+#: custom_function.php:621
+msgid "Cancel reply"
+msgstr "Batal Membalas"
+
+#: custom_function.php:619
+msgid "Leave a Comment to %s"
+msgstr "Tinggalkan komentar kepada %s"
+
+#: custom_function.php:618
+msgid "Leave a Comment"
+msgstr "Tinggalkan Komentar"
+
+#: custom_function.php:614
+msgid "Your email address will not be published."
+msgstr "Alamat email tidak akan dipublikasikan"
+
+#: custom_function.php:613
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Masuk sebagai <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Keluar "
+"dari akun\">Keluar?</a>"
+
+#: custom_function.php:612
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Kamu harus <a href=\"%s\">log in</a> untuk menyampaikan komentar."
+
+#: custom_function.php:608
+msgid "your message"
+msgstr "komentar kamu"
+
+#: custom_function.php:603
+msgid "Required fields are marked %s"
+msgstr "Isian wajib ditandai dengan %s"
+
+#: custom_function.php:592
+msgid "full name"
+msgstr "nama lengkap"
+
+#: custom_function.php:595
+msgid "email address"
+msgstr "alamat email"
+
+#: custom_function.php:689
+msgid "Reply"
+msgstr "Balas"
+
+#: custom_function.php:690
+msgid "Log in to Reply"
+msgstr "Log in untuk menbalas"
+
+#: custom_function.php:755
+msgid "Pingback:"
+msgstr ""
+
+#: custom_function.php:755
+msgid "Edit"
+msgstr "Sunting"
+
+#: custom_function.php:1071
+msgid "%d View"
+msgstr "%d kali"
+
+#: custom_function.php:1071
+msgid "% Views"
+msgstr "% kali"
+
+#: custom_function.php:1116
+msgid "Views"
+msgstr "pemirsa"
+
+msgid "% Comments"
+msgstr "% Komentar"
+
+msgid "No Comments"
+msgstr "Tidak ada komentar"
+
+msgid "1 Comment"
+msgstr "1 Komentar"
+
+#: sendmail.php
+msgid "Name : "
+msgstr "Nama: "
+
+#: sendmail.php
+msgid "Email : "
+msgstr "Email : "
+
+#: sendmail.php
+msgid "Phone : "
+msgstr "Telepone : "
+
+#: sendmail.php
+msgid "Message : "
+msgstr "Pesan : "
+
+#: sendmail.php
+msgid "Contact from "
+msgstr ""
+
+#: sendmail.php
+msgid "Captcha value is wrong."
+msgstr ""
+
+#: gt3 contact form module
+msgid "phone number"
+msgstr "nomor telepon"
+
+#: gt3 contact form module
+msgid "(Are you human, or spambot?)"
+msgstr "(ngetes saja, bedain manusia dengan bot)"
+
+#: gt3 contact form module
+msgid "Send Message"
+msgstr "Kirim Pesan"
+
+#: gt3 contact form module
+msgid "we will respond your message in 24 hours of working day"
+msgstr "kami akan membalas pesan kamu dalam 24 jam kerja"
+
+#: gt3 contact form module
+msgid "Email sent !"
+msgstr ""
+
+#: gt3 contact form module
+#, fuzzy
+msgid "Failed to send Email !"
+msgstr "Surel"
+
+#: gt3 contact form module
+msgid "Please enter your full name"
+msgstr "Jangan malu - malu dong, namanya siapa"
+
+#: gt3 contact form module
+msgid "Please enter a message"
+msgstr "Mohon cantumkan pesan"
+
+#: gt3 contact form module
+msgid "Please enter a valid email address"
+msgstr "Silahkan pakai email yang valid"
+
+#: gt3 contact form module
+msgid "Please enter correct answer"
+msgstr "Masak gitu saja gak bisa"
+
+#: gt3 contact form module
+msgid "All Category"
+msgstr "Semua Kategori"
+
+msgid "Converting page content success."
+msgstr ""
+
+msgid "Converting page content fail, GT3 shortcode not found."
+msgstr ""
+
+msgid ""
+"This page build using GT3 Page Builder (detheme version), are you want "
+"converting to DT Page Builder content ?"
+msgstr ""
+
+msgid "Convert Please"
+msgstr ""
+
+msgid "No, thanks and do not ask again"
+msgstr ""
+
+msgid "Expand section width"
+msgstr "Kembangkan Lebar Seksi"
+
+msgid "Expand Column"
+msgstr "Kembangkan Kolom"
+
+msgid "Expand Background"
+msgstr "Kembangkan Latar"
+
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+msgid "Accordion"
+msgstr "Lipat vertikal"
+
+msgid "Expanded"
+msgstr ""
+
+#, fuzzy
+msgid "Sub Slider"
+msgstr "Lewati slide revolution slider"
+
+#, fuzzy
+msgid "Slide Item"
+msgstr "Item Harga"
+
+msgid "Title"
+msgstr "Judul"
+
+msgid "Sub Title"
+msgstr "Sub Judul"
+
+msgid "Link"
+msgstr "Tautan"
+
+#, fuzzy
+msgid "Link Label"
+msgstr "Tautan"
+
+msgid "Link Target"
+msgstr "Target Tautan"
+
+#, fuzzy
+msgid "Widget Area"
+msgstr "Area Widget Samping"
+
+msgid "Woocommerce Product"
+msgstr ""
+
+msgid "Num Item"
+msgstr ""
+
+msgid "View type"
+msgstr ""
+
+msgid "2 Columns"
+msgstr "2 Kolom"
+
+msgid "3 Columns"
+msgstr "3 Kolom"
+
+msgid "4 Columns"
+msgstr "4 Kolom"
+
+#, fuzzy
+msgid "Filter"
+msgstr "Tampilkan Penyaring"
+
+msgid "Show"
+msgstr "Tampil"
+
+msgid "Hidden"
+msgstr "Sembunyikan"
+
+msgid "All Category Label"
+msgstr ""
+
+msgid "Categories"
+msgstr "Kategori"
+
+msgid "Promotion Box"
+msgstr ""
+
+msgid "Background Image"
+msgstr "Gambar Latar"
+
+msgid "Button Label"
+msgstr ""
+
+msgid "Button Link"
+msgstr ""
+
+msgid "Promotion Text"
+msgstr ""
+
+#, fuzzy
+msgid "Contact Form"
+msgstr "Pra-Tayang Formulir"
+
+msgid "Krypton Map"
+msgstr ""
+
+msgid "Map type"
+msgstr "Tipe Peta"
+
+msgid "Select map type"
+msgstr "Pilih Tipe Peta"
+
+msgid "Static Image"
+msgstr "Gambar Statis"
+
+#, fuzzy
+msgid "Fixed Image"
+msgstr "Gambar Statis"
+
+#, fuzzy
+msgid "Google Map"
+msgstr "Peta Google"
+
+msgid "Line Chart"
+msgstr ""
+
+#, fuzzy
+msgid "Show Label"
+msgstr "Warna label"
+
+#, fuzzy
+msgid "Line Size"
+msgstr "Tipe Garis"
+
+msgid "Line Color"
+msgstr ""
+
+#, fuzzy
+msgid "Label Color"
+msgstr "Warna label"
+
+#, fuzzy
+msgid "Line"
+msgstr "Tinggi Baris Ikon"
+
+#, fuzzy
+msgid "Label"
+msgstr "Judul Nama"
+
+#, fuzzy
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Team Block"
+msgstr ""
+
+msgid "Select team members"
+msgstr ""
+
+msgid "Items Count"
+msgstr ""
+
+msgid "Items per line"
+msgstr ""
+
+#, fuzzy
+msgid "Order type"
+msgstr "Urut ke"
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Testimonials"
+msgstr ""
+
+msgid "Select testimonial"
+msgstr ""
+
+msgid "Sorting type"
+msgstr ""
+
+#, fuzzy
+msgid "New"
+msgstr "buat kategori baru"
+
+msgid "Random"
+msgstr ""
+
+#, fuzzy
+msgid "Slide Speed"
+msgstr "Kecepatan Slide"
+
+#, fuzzy
+msgid "Two Columns"
+msgstr "2 kolom"
+
+#, fuzzy
+msgid "Three Columns"
+msgstr "3 kolom"
+
+#, fuzzy
+msgid "Four Columns"
+msgstr "4 kolom"
+
+#, fuzzy
+msgid "Show Filter"
+msgstr "Tampilkan Penyaring"
+
+#, fuzzy
+msgid "Yes"
+msgstr "Ya"
+
+msgid "No"
+msgstr ""
+
+#, fuzzy
+msgid "Text Color"
+msgstr "Warna Teks"
+
+#, fuzzy
+msgid "Featured Post"
+msgstr "Lebih Lama"
+
+msgid "Number of posts"
+msgstr ""
+
+#, fuzzy
+msgid "One Column"
+msgstr "1 kolom"
+
+msgid "Type 1: Show author avatar"
+msgstr ""
+
+msgid "Type 2: No author avatar"
+msgstr ""
+
+msgid ""
+"This layout is deprecated and are no longer supported in newer versions of "
+"krypton wp template."
+msgstr ""
+"Tampilan ini adalah sudah usang dan tidak lagi tersedia di template wp "
+"krypton versi terbaru"
+
+msgid ""
+"This page was built using GT3 Page Builder ( detheme version ). Do you want "
+"to convert the page layout and start using DT Page Builder ?"
+msgstr ""
+
+msgid "Yes, everything is perfect. Make it permanent"
+msgstr ""
+
+msgid "No, everything is broken. Bring my GT3 page builder version back"
+msgstr ""
+
+msgid "Nothing Found"
+msgstr ""
+
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""

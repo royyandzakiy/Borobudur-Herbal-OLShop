@@ -1,0 +1,739 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Krypton v1.1.8\n"
+"Report-Msgid-Bugs-To: support@detheme.com\n"
+"POT-Creation-Date: 2014-02-27 05:25:07+00:00\n"
+"PO-Revision-Date: 2015-07-31 16:07+0700\n"
+"Last-Translator: Atawai <celomitan@yahoo.com>\n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Textdomain-Support: yes\n"
+
+# @ Krypton
+#: index.php:106
+msgid "Older Post"
+msgstr "Anciens Articles"
+
+# @ Krypton
+#: index.php:112
+msgid "Newer Post"
+msgstr "Nouveaux Articles"
+
+# @ Krypton
+#: 404.php:15
+msgid "Oops!"
+msgstr "Oops!"
+
+# @ Krypton
+#: 404.php:16
+msgid "Error 404"
+msgstr "Erreur 404"
+
+# @ Krypton
+#: 404.php:19
+msgid "Back to Homepage"
+msgstr "Retour à l'Accueil"
+
+# @ Krypton
+#: category.php:63
+msgid "Category Archives: %s"
+msgstr "Archives de la Catégorie: %s"
+
+# @ Krypton
+#: comments.php:15
+msgid "Previous Comments"
+msgstr "Commentaires Précédents"
+
+# @ Krypton
+#: comments.php:20
+msgid "Next Comments"
+msgstr "Commentaires Suivants"
+
+# @ Krypton
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Les Commentaires sont fermés."
+
+# @ Krypton
+#: functions.php:100
+msgid "Top Navigation"
+msgstr "Navigation Haut de Page"
+
+# @ Krypton
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr "Aire des Widgets de la Sidebar"
+
+# @ Krypton
+#: functions.php:119
+msgid "Bottom Widget Area. Recomended 3 widgets"
+msgstr "Aire des Widgets du Bas de Page. 3 Widgets recommandés"
+
+# @ Krypton
+#: functions.php:132
+msgid "Widget area for contact page"
+msgstr "Aire de Widget pour la page de contact"
+
+# @ Krypton
+#: navigation.php:37
+msgid "Toggle navigation"
+msgstr ""
+
+#: navigation.php:37
+msgid "Search"
+msgstr ""
+
+# @ Krypton
+#: page.php:68
+msgid "Share"
+msgstr "Partager"
+
+# @ Krypton
+#: search.php:66
+msgid "Search Results for: %s"
+msgstr "Résultat de la recherche pour: %s"
+
+# @ Krypton
+#: search.php:97
+msgid "Previous"
+msgstr "Précédent"
+
+# @ Krypton
+#: search.php:102
+msgid "Next"
+msgstr "Suivant"
+
+# @ Krypton
+#: taxonomy-portcat.php:75
+msgid "Load More"
+msgstr "Charger Plus"
+
+# @ Krypton
+#: portfolio-3column.php:66
+msgid "All Project"
+msgstr "Tous le Projet"
+
+# @ krypton
+#: custom_function.php:26
+msgid "Hide Comment"
+msgstr "Cacher le Commentaire"
+
+# @ krypton
+#: custom_function.php:29
+msgid "Hide Social Share"
+msgstr "Cacher le Partage Social"
+
+# @ Krypton
+#: custom_function.php:68
+msgid "Image Orientation"
+msgstr "Orientation de l'Image"
+
+#: custom_function.php:73
+msgid "Square"
+msgstr ""
+
+#: custom_function.php:73
+msgid "Big Square"
+msgstr ""
+
+#: custom_function.php:73
+msgid "Portrait"
+msgstr ""
+
+#: custom_function.php:73
+msgid "Landscape"
+msgstr ""
+
+# @ Krypton
+#: custom_function.php:78
+msgid "Media Gallery"
+msgstr "Galerie de Media  "
+
+# @ Krypton
+#: custom_function.php:79
+msgid "Select Layout :"
+msgstr "Sélectionner une mise en page"
+
+# @ Krypton
+# @ redux-framework
+#: custom_function.php:81
+msgid "Default"
+msgstr "Défaut"
+
+# @ Krypton
+#: custom_function.php:82
+msgid "Carousel"
+msgstr "Carrousel"
+
+# @ Krypton
+#: custom_function.php:156
+msgid "Page Attributes"
+msgstr "Attributs de la Page"
+
+# @ Krypton
+#: custom_function.php:175
+msgid "(no parent)"
+msgstr "(Pas de Parent)"
+
+# @ Krypton
+# @ redux-framework
+#: custom_function.php:183
+msgid "Left"
+msgstr "Gauche"
+
+# @ Krypton
+# @ redux-framework
+#: custom_function.php:183
+msgid "Right"
+msgstr "Droite"
+
+# @ Krypton
+#: custom_function.php:183
+msgid "No Sidebar"
+msgstr "Pas de SideBar"
+
+# @ Krypton
+#: custom_function.php:230
+msgid "Page Subtitle"
+msgstr "Sous-Titre de la Page"
+
+# @ Krypton
+#: custom_function.php:232
+msgid "Parent"
+msgstr "Parent"
+
+# @ Krypton
+#: custom_function.php:241
+msgid "Template"
+msgstr "Modèle"
+
+# @ Krypton
+#: custom_function.php:242
+msgid "Page Template"
+msgstr "Modèle de la Page"
+
+# @ Krypton
+#: custom_function.php:243
+msgid "Default Template"
+msgstr "Modèle par défaut"
+
+# @ Krypton
+#: custom_function.php:248
+msgid "Select Layout Type"
+msgstr "Sélectionner le type de mise en page"
+
+# @ Krypton
+#: custom_function.php:250
+msgid "Type 1"
+msgstr "Type 1"
+
+# @ Krypton
+#: custom_function.php:251
+msgid "Type 2"
+msgstr "Type 2"
+
+# @ Krypton
+#: custom_function.php:256
+msgid "Select Column"
+msgstr "Sélectionner la Colonne"
+
+# @ Krypton
+#: custom_function.php:260
+#, fuzzy
+msgid "%d Column"
+msgid_plural "%d Columns"
+msgstr[0] "Colonne %d"
+msgstr[1] "Colonne %d"
+
+# @ Krypton
+#: custom_function.php:278
+msgid "Sidebar Position"
+msgstr "Position de la Sidebar"
+
+# @ Krypton
+#: custom_function.php:292
+msgid "Order"
+msgstr "Ordre"
+
+# @ Krypton
+#: custom_function.php:294
+msgid "Need help? Use the Help tab in the upper right of your screen."
+msgstr "Besoin d'aide? Utilisez l'onglet Aide en haut à droite de votre écran."
+
+# @ Krypton
+#: custom_function.php:621
+msgid "Submit"
+msgstr "Soumettre"
+
+# @ Krypton
+#: custom_function.php:621
+msgid "Cancel reply"
+msgstr "Annuler la réponse"
+
+# @ Krypton
+#: custom_function.php:619
+msgid "Leave a Comment to %s"
+msgstr "Laisser un Commentaire à %s"
+
+# @ Krypton
+#: custom_function.php:618
+msgid "Leave a Comment"
+msgstr "Laisser un Commentaire"
+
+# @ Krypton
+#: custom_function.php:614
+msgid "Your email address will not be published."
+msgstr "Votre adresse de courriel ne sera pas publiée."
+
+# @ Krypton
+#: custom_function.php:613
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Connecté en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title="
+"\"déconnexion\">Déconnexion?</a>"
+
+# @ Krypton
+#: custom_function.php:612
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+"Vous devez <a href=\"%s\">être enregistré</a> pour publier un commentaire."
+
+# @ Krypton
+#: custom_function.php:608
+msgid "your message"
+msgstr "votre message"
+
+# @ Krypton
+#: custom_function.php:603
+msgid "Required fields are marked %s"
+msgstr "Les champs obligatoires sont marqués %s"
+
+# @ Krypton
+#: custom_function.php:592
+msgid "full name"
+msgstr "Nom Complet "
+
+# @ Krypton
+#: custom_function.php:595
+msgid "email address"
+msgstr "Adresse de Courriel"
+
+# @ Krypton
+#: custom_function.php:689
+msgid "Reply"
+msgstr "Répondre"
+
+# @ Krypton
+#: custom_function.php:690
+msgid "Log in to Reply"
+msgstr "Connectez-vous pour Répondre"
+
+# @ Krypton
+#: custom_function.php:755
+msgid "Pingback:"
+msgstr "Pingback:"
+
+# @ Krypton
+#: custom_function.php:755
+msgid "Edit"
+msgstr "Édition"
+
+# @ Krypton
+#: custom_function.php:1071
+msgid "%d View"
+msgstr "%d vues"
+
+# @ default
+#: custom_function.php:1071
+msgid "% Views"
+msgstr "% Vues"
+
+# @ Krypton
+#: custom_function.php:1116
+msgid "Views"
+msgstr "Vues"
+
+# @ Krypton
+msgid "% Comments"
+msgstr "% Commentaires"
+
+# @ Krypton
+msgid "No Comments"
+msgstr "Pas de Commentaires"
+
+# @ Krypton
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: sendmail.php
+#, fuzzy
+msgid "Name : "
+msgstr "Nom Complet "
+
+#: sendmail.php
+#, fuzzy
+msgid "Email : "
+msgstr "Votre adresse de courriel ne sera pas publiée."
+
+#: sendmail.php
+msgid "Phone : "
+msgstr ""
+
+#: sendmail.php
+#, fuzzy
+msgid "Message : "
+msgstr "votre message"
+
+#: sendmail.php
+msgid "Contact from "
+msgstr ""
+
+#: sendmail.php
+msgid "Captcha value is wrong."
+msgstr ""
+
+#: gt3 contact form module
+msgid "phone number"
+msgstr ""
+
+#: gt3 contact form module
+msgid "(Are you human, or spambot?)"
+msgstr ""
+
+#: gt3 contact form module
+#, fuzzy
+msgid "Send Message"
+msgstr "votre message"
+
+#: gt3 contact form module
+msgid "we will respond your message in 24 hours of working day"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Email sent !"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Failed to send Email !"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Please enter your full name"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Please enter a message"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: gt3 contact form module
+msgid "Please enter correct answer"
+msgstr ""
+
+#: gt3 contact form module
+msgid "All Category"
+msgstr ""
+
+msgid "Converting page content success."
+msgstr ""
+
+msgid "Converting page content fail, GT3 shortcode not found."
+msgstr ""
+
+msgid ""
+"This page build using GT3 Page Builder (detheme version), are you want "
+"converting to DT Page Builder content ?"
+msgstr ""
+
+msgid "Convert Please"
+msgstr ""
+
+msgid "No, thanks and do not ask again"
+msgstr ""
+
+msgid "Expand section width"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Expand Column"
+msgstr "Sélectionner la Colonne"
+
+msgid "Expand Background"
+msgstr ""
+
+msgid "Make section \"out of the box\"."
+msgstr ""
+
+msgid "Accordion"
+msgstr ""
+
+msgid "Expanded"
+msgstr ""
+
+msgid "Sub Slider"
+msgstr ""
+
+msgid "Slide Item"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Sub Title"
+msgstr "Sous-Titre de la Page"
+
+msgid "Link"
+msgstr ""
+
+msgid "Link Label"
+msgstr ""
+
+msgid "Link Target"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Widget Area"
+msgstr "Aire des Widgets de la Sidebar"
+
+msgid "Woocommerce Product"
+msgstr ""
+
+msgid "Num Item"
+msgstr ""
+
+msgid "View type"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "2 Columns"
+msgstr "Colonne %d"
+
+# @ Krypton
+#, fuzzy
+msgid "3 Columns"
+msgstr "Colonne %d"
+
+# @ Krypton
+#, fuzzy
+msgid "4 Columns"
+msgstr "Colonne %d"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "All Category Label"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Categories"
+msgstr "Archives de la Catégorie: %s"
+
+msgid "Promotion Box"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Background Image"
+msgstr "Retour à l'Accueil"
+
+msgid "Button Label"
+msgstr ""
+
+msgid "Button Link"
+msgstr ""
+
+msgid "Promotion Text"
+msgstr ""
+
+msgid "Contact Form"
+msgstr ""
+
+msgid "Krypton Map"
+msgstr ""
+
+msgid "Map type"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Select map type"
+msgstr "Sélectionner le type de mise en page"
+
+msgid "Static Image"
+msgstr ""
+
+msgid "Fixed Image"
+msgstr ""
+
+msgid "Google Map"
+msgstr ""
+
+msgid "Line Chart"
+msgstr ""
+
+msgid "Show Label"
+msgstr ""
+
+msgid "Line Size"
+msgstr ""
+
+msgid "Line Color"
+msgstr ""
+
+msgid "Label Color"
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Team Block"
+msgstr ""
+
+msgid "Select team members"
+msgstr ""
+
+msgid "Items Count"
+msgstr ""
+
+msgid "Items per line"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Order type"
+msgstr "Ordre"
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Testimonials"
+msgstr ""
+
+msgid "Select testimonial"
+msgstr ""
+
+msgid "Sorting type"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Slide Speed"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Two Columns"
+msgstr "Colonne %d"
+
+# @ Krypton
+#, fuzzy
+msgid "Three Columns"
+msgstr "Sélectionner la Colonne"
+
+# @ Krypton
+#, fuzzy
+msgid "Four Columns"
+msgstr "Colonne %d"
+
+msgid "Show Filter"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Text Color"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "Featured Post"
+msgstr "Anciens Articles"
+
+msgid "Number of posts"
+msgstr ""
+
+# @ Krypton
+#, fuzzy
+msgid "One Column"
+msgstr "Colonne %d"
+
+msgid "Type 1: Show author avatar"
+msgstr ""
+
+msgid "Type 2: No author avatar"
+msgstr ""
+
+msgid ""
+"This layout is deprecated and are no longer supported in newer versions of "
+"krypton wp template."
+msgstr ""
+
+msgid ""
+"This page was built using GT3 Page Builder ( detheme version ). Do you want "
+"to convert the page layout and start using DT Page Builder ?"
+msgstr ""
+
+msgid "Yes, everything is perfect. Make it permanent"
+msgstr ""
+
+msgid "No, everything is broken. Bring my GT3 page builder version back"
+msgstr ""
+
+msgid "Nothing Found"
+msgstr ""
+
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
